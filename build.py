@@ -197,7 +197,9 @@ for _, r in main_raw.iterrows():
         "flight":        clean_str(r["Flight"]),
         "gross":         clean_str(r["Gross"]),
         "net":           clean_str(r["Net"]),
-        "placement":     placement_from_category(cat),
+        "placement":     (str(int(float(str(r["Placement"])))).strip()
+                          if pd.notna(r.get("Placement")) and str(r.get("Placement","")).strip() not in ("", "Winner", "nan")
+                          else "Winner"),
         "payout":        clean_payout(r["Payout"]),
     })
 

@@ -35,7 +35,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -46,7 +46,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -57,7 +57,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 7.0
   },
   {
@@ -68,7 +68,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "40",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 7.0
   },
   {
@@ -79,7 +79,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -90,7 +90,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -101,7 +101,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.5
   },
   {
@@ -112,7 +112,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.5
   },
   {
@@ -123,7 +123,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 7.0
   },
   {
@@ -134,7 +134,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "70",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 35.0
   },
   {
@@ -145,7 +145,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "78",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 17.5
   },
   {
@@ -156,7 +156,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "78",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 17.5
   },
   {
@@ -167,7 +167,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "70",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 35.0
   },
   {
@@ -178,7 +178,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 21.0
   },
   {
@@ -189,7 +189,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "80",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 14.0
   },
   {
@@ -266,7 +266,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -277,7 +277,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -288,7 +288,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
@@ -299,7 +299,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
@@ -310,7 +310,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -321,7 +321,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -332,7 +332,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
@@ -343,7 +343,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
@@ -354,7 +354,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.0
   },
   {
@@ -365,7 +365,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.0
   },
   {
@@ -376,7 +376,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.0
   },
   {
@@ -387,7 +387,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.0
   },
   {
@@ -398,7 +398,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.0
   },
   {
@@ -409,7 +409,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "1",
     "payout": 36.0
   },
   {
@@ -420,7 +420,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "1",
     "payout": 36.0
   },
   {
@@ -431,7 +431,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "3",
     "payout": 18.0
   },
   {
@@ -442,7 +442,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "1",
     "payout": 45.0
   },
   {
@@ -453,7 +453,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 27.0
   },
   {
@@ -464,7 +464,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "3",
     "payout": 18.0
   },
   {
@@ -563,7 +563,7 @@ const MAIN = [
     "flight": "A",
     "gross": "46",
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -574,7 +574,7 @@ const MAIN = [
     "flight": "B",
     "gross": "41",
     "net": "27",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -585,7 +585,7 @@ const MAIN = [
     "flight": "A",
     "gross": "47",
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.0
   },
   {
@@ -596,7 +596,7 @@ const MAIN = [
     "flight": "A",
     "gross": "51",
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.0
   },
   {
@@ -607,7 +607,7 @@ const MAIN = [
     "flight": "A",
     "gross": "53",
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.0
   },
   {
@@ -618,7 +618,7 @@ const MAIN = [
     "flight": "B",
     "gross": "53",
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -629,7 +629,7 @@ const MAIN = [
     "flight": "A",
     "gross": "38",
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -640,7 +640,7 @@ const MAIN = [
     "flight": "B",
     "gross": "45",
     "net": "27",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -651,7 +651,7 @@ const MAIN = [
     "flight": "A",
     "gross": "41",
     "net": "34",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -662,7 +662,7 @@ const MAIN = [
     "flight": "A",
     "gross": "46",
     "net": "34",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -673,7 +673,7 @@ const MAIN = [
     "flight": "B",
     "gross": "50",
     "net": "32",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -684,7 +684,7 @@ const MAIN = [
     "flight": "A",
     "gross": "97",
     "net": "71",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 45.0
   },
   {
@@ -695,7 +695,7 @@ const MAIN = [
     "flight": "A",
     "gross": "88",
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 22.5
   },
   {
@@ -706,7 +706,7 @@ const MAIN = [
     "flight": "A",
     "gross": "97",
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 22.5
   },
   {
@@ -717,7 +717,7 @@ const MAIN = [
     "flight": "B",
     "gross": "89",
     "net": "61",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -728,7 +728,7 @@ const MAIN = [
     "flight": "B",
     "gross": "105",
     "net": "69",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 30.0
   },
   {
@@ -739,7 +739,7 @@ const MAIN = [
     "flight": "B",
     "gross": "112",
     "net": "76",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 20.0
   },
   {
@@ -838,7 +838,7 @@ const MAIN = [
     "flight": "A",
     "gross": "48",
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -849,7 +849,7 @@ const MAIN = [
     "flight": "B",
     "gross": "52",
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -860,7 +860,7 @@ const MAIN = [
     "flight": "A",
     "gross": "45",
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
@@ -871,7 +871,7 @@ const MAIN = [
     "flight": "B",
     "gross": "49",
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
@@ -882,7 +882,7 @@ const MAIN = [
     "flight": "A",
     "gross": "42",
     "net": "30",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -893,7 +893,7 @@ const MAIN = [
     "flight": "B",
     "gross": "49",
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -904,7 +904,7 @@ const MAIN = [
     "flight": "A",
     "gross": "41",
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.0
   },
   {
@@ -915,7 +915,7 @@ const MAIN = [
     "flight": "A",
     "gross": "46",
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.0
   },
   {
@@ -926,7 +926,7 @@ const MAIN = [
     "flight": "A",
     "gross": "39",
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.0
   },
   {
@@ -937,7 +937,7 @@ const MAIN = [
     "flight": "B",
     "gross": "50",
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -948,7 +948,7 @@ const MAIN = [
     "flight": "B",
     "gross": "49",
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -959,7 +959,7 @@ const MAIN = [
     "flight": "A",
     "gross": "95",
     "net": "72",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 45.0
   },
   {
@@ -970,7 +970,7 @@ const MAIN = [
     "flight": "A",
     "gross": "86",
     "net": "74",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 27.0
   },
   {
@@ -981,7 +981,7 @@ const MAIN = [
     "flight": "A",
     "gross": "97",
     "net": "75",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 18.0
   },
   {
@@ -992,7 +992,7 @@ const MAIN = [
     "flight": "B",
     "gross": "98",
     "net": "70",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 45.0
   },
   {
@@ -1003,7 +1003,7 @@ const MAIN = [
     "flight": "B",
     "gross": "108",
     "net": "72",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 27.0
   },
   {
@@ -1014,7 +1014,7 @@ const MAIN = [
     "flight": "B",
     "gross": "103",
     "net": "74",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 18.0
   },
   {
@@ -1102,7 +1102,7 @@ const MAIN = [
     "flight": "A",
     "gross": "43",
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -1113,7 +1113,7 @@ const MAIN = [
     "flight": "B",
     "gross": "50",
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -1124,7 +1124,7 @@ const MAIN = [
     "flight": "A",
     "gross": "40",
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
@@ -1135,7 +1135,7 @@ const MAIN = [
     "flight": "B",
     "gross": "54",
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -1146,7 +1146,7 @@ const MAIN = [
     "flight": "A",
     "gross": "37",
     "net": "31",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -1157,7 +1157,7 @@ const MAIN = [
     "flight": "B",
     "gross": "52",
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -1168,7 +1168,7 @@ const MAIN = [
     "flight": "A",
     "gross": "42",
     "net": "32",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
@@ -1179,7 +1179,7 @@ const MAIN = [
     "flight": "B",
     "gross": "53",
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -1190,7 +1190,7 @@ const MAIN = [
     "flight": "A",
     "gross": "77",
     "net": "66",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 45.0
   },
   {
@@ -1201,7 +1201,7 @@ const MAIN = [
     "flight": "A",
     "gross": "86",
     "net": "67",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 27.0
   },
   {
@@ -1212,7 +1212,7 @@ const MAIN = [
     "flight": "A",
     "gross": "92",
     "net": "73",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 18.0
   },
   {
@@ -1223,7 +1223,7 @@ const MAIN = [
     "flight": "B",
     "gross": "110",
     "net": "74",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -1234,7 +1234,7 @@ const MAIN = [
     "flight": "B",
     "gross": "110",
     "net": "74",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -1245,7 +1245,7 @@ const MAIN = [
     "flight": "B",
     "gross": "105",
     "net": "75",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 20.0
   },
   {
@@ -1333,7 +1333,7 @@ const MAIN = [
     "flight": "A",
     "gross": "44",
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -1344,7 +1344,7 @@ const MAIN = [
     "flight": "B",
     "gross": "53",
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -1355,7 +1355,7 @@ const MAIN = [
     "flight": "A",
     "gross": "41",
     "net": "34",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.0
   },
   {
@@ -1366,7 +1366,7 @@ const MAIN = [
     "flight": "A",
     "gross": "39",
     "net": "34",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.0
   },
   {
@@ -1377,7 +1377,7 @@ const MAIN = [
     "flight": "B",
     "gross": "52",
     "net": "40",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.0
   },
   {
@@ -1388,7 +1388,7 @@ const MAIN = [
     "flight": "B",
     "gross": "58",
     "net": "40",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.0
   },
   {
@@ -1399,7 +1399,7 @@ const MAIN = [
     "flight": "A",
     "gross": "37",
     "net": "31",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -1410,7 +1410,7 @@ const MAIN = [
     "flight": "B",
     "gross": "45",
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -1421,7 +1421,7 @@ const MAIN = [
     "flight": "A",
     "gross": "42",
     "net": "32",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -1432,7 +1432,7 @@ const MAIN = [
     "flight": "B",
     "gross": "49",
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -1443,7 +1443,7 @@ const MAIN = [
     "flight": "A",
     "gross": "78",
     "net": "65",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -1454,7 +1454,7 @@ const MAIN = [
     "flight": "A",
     "gross": "91",
     "net": "70",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 30.0
   },
   {
@@ -1465,7 +1465,7 @@ const MAIN = [
     "flight": "A",
     "gross": "79",
     "net": "71",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 20.0
   },
   {
@@ -1476,7 +1476,7 @@ const MAIN = [
     "flight": "B",
     "gross": "102",
     "net": "73",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -1487,7 +1487,7 @@ const MAIN = [
     "flight": "B",
     "gross": "97",
     "net": "74",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 30.0
   },
   {
@@ -1498,7 +1498,7 @@ const MAIN = [
     "flight": "B",
     "gross": "117",
     "net": "81",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 20.0
   },
   {
@@ -1586,7 +1586,7 @@ const MAIN = [
     "flight": "A",
     "gross": "42",
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -1597,7 +1597,7 @@ const MAIN = [
     "flight": "B",
     "gross": "55",
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -1608,7 +1608,7 @@ const MAIN = [
     "flight": "A",
     "gross": "44",
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -1619,7 +1619,7 @@ const MAIN = [
     "flight": "B",
     "gross": "53",
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -1630,7 +1630,7 @@ const MAIN = [
     "flight": "A",
     "gross": "36",
     "net": "31",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -1641,7 +1641,7 @@ const MAIN = [
     "flight": "B",
     "gross": "49",
     "net": "31",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -1652,7 +1652,7 @@ const MAIN = [
     "flight": "A",
     "gross": "45",
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -1663,7 +1663,7 @@ const MAIN = [
     "flight": "B",
     "gross": "47",
     "net": "32",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -1674,7 +1674,7 @@ const MAIN = [
     "flight": "A",
     "gross": "78",
     "net": "68",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -1685,7 +1685,7 @@ const MAIN = [
     "flight": "A",
     "gross": "89",
     "net": "70",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 24.0
   },
   {
@@ -1696,7 +1696,7 @@ const MAIN = [
     "flight": "A",
     "gross": "89",
     "net": "71",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 16.0
   },
   {
@@ -1707,7 +1707,7 @@ const MAIN = [
     "flight": "B",
     "gross": "104",
     "net": "68",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -1718,7 +1718,7 @@ const MAIN = [
     "flight": "B",
     "gross": "104",
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 24.0
   },
   {
@@ -1729,7 +1729,7 @@ const MAIN = [
     "flight": "B",
     "gross": "110",
     "net": "74",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 16.0
   },
   {
@@ -1828,7 +1828,7 @@ const MAIN = [
     "flight": "A",
     "gross": "43",
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -1839,7 +1839,7 @@ const MAIN = [
     "flight": "B",
     "gross": "49",
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -1850,7 +1850,7 @@ const MAIN = [
     "flight": "A",
     "gross": "42",
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -1861,7 +1861,7 @@ const MAIN = [
     "flight": "B",
     "gross": "51",
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -1872,7 +1872,7 @@ const MAIN = [
     "flight": "A",
     "gross": "42",
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 8.0
   },
   {
@@ -1883,7 +1883,7 @@ const MAIN = [
     "flight": "A",
     "gross": "47",
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 8.0
   },
   {
@@ -1894,7 +1894,7 @@ const MAIN = [
     "flight": "B",
     "gross": "51",
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -1905,7 +1905,7 @@ const MAIN = [
     "flight": "A",
     "gross": "50",
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.0
   },
   {
@@ -1916,7 +1916,7 @@ const MAIN = [
     "flight": "A",
     "gross": "47",
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.0
   },
   {
@@ -1927,7 +1927,7 @@ const MAIN = [
     "flight": "B",
     "gross": "48",
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -1938,7 +1938,7 @@ const MAIN = [
     "flight": "A",
     "gross": "90",
     "net": "74",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -1949,7 +1949,7 @@ const MAIN = [
     "flight": "A",
     "gross": "85",
     "net": "78",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 24.0
   },
   {
@@ -1960,7 +1960,7 @@ const MAIN = [
     "flight": "A",
     "gross": "87",
     "net": "81",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 16.0
   },
   {
@@ -1971,7 +1971,7 @@ const MAIN = [
     "flight": "B",
     "gross": "102",
     "net": "71",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -1982,7 +1982,7 @@ const MAIN = [
     "flight": "B",
     "gross": "103",
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 24.0
   },
   {
@@ -1993,7 +1993,7 @@ const MAIN = [
     "flight": "B",
     "gross": "107",
     "net": "78",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 16.0
   },
   {
@@ -2081,7 +2081,7 @@ const MAIN = [
     "flight": "A",
     "gross": "39",
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -2092,7 +2092,7 @@ const MAIN = [
     "flight": "B",
     "gross": "47",
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -2103,7 +2103,7 @@ const MAIN = [
     "flight": "A",
     "gross": "48",
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.0
   },
   {
@@ -2114,7 +2114,7 @@ const MAIN = [
     "flight": "A",
     "gross": "43",
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.0
   },
   {
@@ -2125,7 +2125,7 @@ const MAIN = [
     "flight": "B",
     "gross": "51",
     "net": "34",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
@@ -2136,7 +2136,7 @@ const MAIN = [
     "flight": "A",
     "gross": "45",
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -2147,7 +2147,7 @@ const MAIN = [
     "flight": "B",
     "gross": "46",
     "net": "31",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -2158,7 +2158,7 @@ const MAIN = [
     "flight": "A",
     "gross": "38",
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -2169,7 +2169,7 @@ const MAIN = [
     "flight": "B",
     "gross": "54",
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -2180,7 +2180,7 @@ const MAIN = [
     "flight": "B",
     "gross": "51",
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -2191,7 +2191,7 @@ const MAIN = [
     "flight": "A",
     "gross": "77",
     "net": "72",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -2202,7 +2202,7 @@ const MAIN = [
     "flight": "A",
     "gross": "100",
     "net": "76",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 30.0
   },
   {
@@ -2213,7 +2213,7 @@ const MAIN = [
     "flight": "A",
     "gross": "87",
     "net": "78",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 10.0
   },
   {
@@ -2224,7 +2224,7 @@ const MAIN = [
     "flight": "A",
     "gross": "96",
     "net": "78",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 10.0
   },
   {
@@ -2235,7 +2235,7 @@ const MAIN = [
     "flight": "B",
     "gross": "93",
     "net": "64",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 45.0
   },
   {
@@ -2246,7 +2246,7 @@ const MAIN = [
     "flight": "B",
     "gross": "105",
     "net": "70",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 27.0
   },
   {
@@ -2257,7 +2257,7 @@ const MAIN = [
     "flight": "B",
     "gross": "105",
     "net": "73",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 18.0
   },
   {
@@ -2345,7 +2345,7 @@ const MAIN = [
     "flight": "A",
     "gross": "39",
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -2356,7 +2356,7 @@ const MAIN = [
     "flight": "B",
     "gross": "58",
     "net": "40",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -2367,7 +2367,7 @@ const MAIN = [
     "flight": "A",
     "gross": "42",
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 7.0
   },
   {
@@ -2378,7 +2378,7 @@ const MAIN = [
     "flight": "B",
     "gross": "57",
     "net": "41",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -2389,7 +2389,7 @@ const MAIN = [
     "flight": "A",
     "gross": "49",
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -2400,7 +2400,7 @@ const MAIN = [
     "flight": "B",
     "gross": "47",
     "net": "31",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -2411,7 +2411,7 @@ const MAIN = [
     "flight": "A",
     "gross": "45",
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 7.0
   },
   {
@@ -2422,7 +2422,7 @@ const MAIN = [
     "flight": "B",
     "gross": "50",
     "net": "33",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -2433,7 +2433,7 @@ const MAIN = [
     "flight": "A",
     "gross": "84",
     "net": "72",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 35.0
   },
   {
@@ -2444,7 +2444,7 @@ const MAIN = [
     "flight": "A",
     "gross": "102",
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 21.0
   },
   {
@@ -2455,7 +2455,7 @@ const MAIN = [
     "flight": "A",
     "gross": "93",
     "net": "82",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 14.0
   },
   {
@@ -2466,7 +2466,7 @@ const MAIN = [
     "flight": "B",
     "gross": "104",
     "net": "72",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -2477,7 +2477,7 @@ const MAIN = [
     "flight": "B",
     "gross": "110",
     "net": "74",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 24.0
   },
   {
@@ -2488,7 +2488,7 @@ const MAIN = [
     "flight": "B",
     "gross": "108",
     "net": "75",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 16.0
   },
   {
@@ -2576,7 +2576,7 @@ const MAIN = [
     "flight": "A",
     "gross": "42",
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -2587,7 +2587,7 @@ const MAIN = [
     "flight": "B",
     "gross": "52",
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -2598,7 +2598,7 @@ const MAIN = [
     "flight": "A",
     "gross": "48",
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
@@ -2609,7 +2609,7 @@ const MAIN = [
     "flight": "B",
     "gross": "59",
     "net": "41",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -2620,7 +2620,7 @@ const MAIN = [
     "flight": "B",
     "gross": "57",
     "net": "41",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -2631,7 +2631,7 @@ const MAIN = [
     "flight": "A",
     "gross": "43",
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -2642,7 +2642,7 @@ const MAIN = [
     "flight": "B",
     "gross": "50",
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -2653,7 +2653,7 @@ const MAIN = [
     "flight": "A",
     "gross": "49",
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -2664,7 +2664,7 @@ const MAIN = [
     "flight": "A",
     "gross": "43",
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -2675,7 +2675,7 @@ const MAIN = [
     "flight": "B",
     "gross": "53",
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
@@ -2686,7 +2686,7 @@ const MAIN = [
     "flight": "A",
     "gross": "93",
     "net": "76",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 45.0
   },
   {
@@ -2697,7 +2697,7 @@ const MAIN = [
     "flight": "A",
     "gross": "97",
     "net": "77",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 27.0
   },
   {
@@ -2708,7 +2708,7 @@ const MAIN = [
     "flight": "A",
     "gross": "87",
     "net": "79",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 9.0
   },
   {
@@ -2719,7 +2719,7 @@ const MAIN = [
     "flight": "A",
     "gross": "103",
     "net": "79",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 9.0
   },
   {
@@ -2730,7 +2730,7 @@ const MAIN = [
     "flight": "B",
     "gross": "101",
     "net": "68",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 45.0
   },
   {
@@ -2741,7 +2741,7 @@ const MAIN = [
     "flight": "B",
     "gross": "116",
     "net": "80",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 27.0
   },
   {
@@ -2752,7 +2752,7 @@ const MAIN = [
     "flight": "B",
     "gross": "111",
     "net": "82",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 9.0
   },
   {
@@ -2763,7 +2763,7 @@ const MAIN = [
     "flight": "B",
     "gross": "114",
     "net": "82",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 9.0
   },
   {
@@ -2840,7 +2840,7 @@ const MAIN = [
     "flight": "A",
     "gross": "49",
     "net": "39",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 24.0
   },
   {
@@ -2851,7 +2851,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.5
   },
   {
@@ -2862,7 +2862,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.5
   },
   {
@@ -2873,7 +2873,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 6.0
   },
   {
@@ -2884,7 +2884,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 6.0
   },
   {
@@ -2895,7 +2895,7 @@ const MAIN = [
     "flight": "A",
     "gross": "41",
     "net": "31",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 24.0
   },
   {
@@ -2906,7 +2906,7 @@ const MAIN = [
     "flight": "B",
     "gross": "46",
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 22.0
   },
   {
@@ -2917,7 +2917,7 @@ const MAIN = [
     "flight": "A",
     "gross": "48",
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 12.0
   },
   {
@@ -2928,7 +2928,7 @@ const MAIN = [
     "flight": "B",
     "gross": "50",
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 11.0
   },
   {
@@ -2939,7 +2939,7 @@ const MAIN = [
     "flight": "A",
     "gross": "90",
     "net": "70",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 60.0
   },
   {
@@ -2950,7 +2950,7 @@ const MAIN = [
     "flight": "A",
     "gross": "84",
     "net": "79",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 36.0
   },
   {
@@ -2961,7 +2961,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "3",
     "payout": 8.0
   },
   {
@@ -2972,7 +2972,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "3",
     "payout": 8.0
   },
   {
@@ -2983,7 +2983,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "3",
     "payout": 8.0
   },
   {
@@ -2994,7 +2994,7 @@ const MAIN = [
     "flight": "B",
     "gross": "101",
     "net": "71",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 55.0
   },
   {
@@ -3005,7 +3005,7 @@ const MAIN = [
     "flight": "B",
     "gross": "107",
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 33.0
   },
   {
@@ -3016,7 +3016,7 @@ const MAIN = [
     "flight": "B",
     "gross": "105",
     "net": "78",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 22.0
   },
   {
@@ -3104,7 +3104,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "1",
     "payout": 24.0
   },
   {
@@ -3115,7 +3115,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -3126,7 +3126,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -3137,7 +3137,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 6.0
   },
   {
@@ -3148,7 +3148,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 6.0
   },
   {
@@ -3159,7 +3159,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "1",
     "payout": 24.0
   },
   {
@@ -3170,7 +3170,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "1",
     "payout": 24.0
   },
   {
@@ -3181,7 +3181,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 12.0
   },
   {
@@ -3192,7 +3192,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 12.0
   },
   {
@@ -3203,7 +3203,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "1",
     "payout": 60.0
   },
   {
@@ -3214,7 +3214,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 20.0
   },
   {
@@ -3225,7 +3225,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 20.0
   },
   {
@@ -3236,7 +3236,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 20.0
   },
   {
@@ -3247,7 +3247,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "1",
     "payout": 60.0
   },
   {
@@ -3258,7 +3258,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 36.0
   },
   {
@@ -3269,7 +3269,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "3",
     "payout": 24.0
   },
   {
@@ -3346,7 +3346,7 @@ const MAIN = [
     "flight": "A",
     "gross": "40",
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -3357,7 +3357,7 @@ const MAIN = [
     "flight": "B",
     "gross": "50",
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -3368,7 +3368,7 @@ const MAIN = [
     "flight": "A",
     "gross": "49",
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -3379,7 +3379,7 @@ const MAIN = [
     "flight": "B",
     "gross": "52",
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -3390,7 +3390,7 @@ const MAIN = [
     "flight": "A",
     "gross": "35",
     "net": "26",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -3401,7 +3401,7 @@ const MAIN = [
     "flight": "B",
     "gross": "49",
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -3412,7 +3412,7 @@ const MAIN = [
     "flight": "A",
     "gross": "43",
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -3423,7 +3423,7 @@ const MAIN = [
     "flight": "B",
     "gross": "55",
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -3434,7 +3434,7 @@ const MAIN = [
     "flight": "A",
     "gross": "84",
     "net": "66",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -3445,7 +3445,7 @@ const MAIN = [
     "flight": "A",
     "gross": "89",
     "net": "78",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 30.0
   },
   {
@@ -3456,7 +3456,7 @@ const MAIN = [
     "flight": "A",
     "gross": "87",
     "net": "79",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 20.0
   },
   {
@@ -3467,7 +3467,7 @@ const MAIN = [
     "flight": "B",
     "gross": "101",
     "net": "74",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -3478,7 +3478,7 @@ const MAIN = [
     "flight": "B",
     "gross": "115",
     "net": "83",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 30.0
   },
   {
@@ -3489,7 +3489,7 @@ const MAIN = [
     "flight": "B",
     "gross": "120",
     "net": "84",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 10.0
   },
   {
@@ -3500,7 +3500,7 @@ const MAIN = [
     "flight": "B",
     "gross": "112",
     "net": "84",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 10.0
   },
   {
@@ -3610,7 +3610,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -3621,7 +3621,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -3632,7 +3632,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -3643,7 +3643,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -3654,7 +3654,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 10.0
   },
   {
@@ -3665,7 +3665,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 10.0
   },
   {
@@ -3676,7 +3676,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 10.0
   },
   {
@@ -3687,7 +3687,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -3698,7 +3698,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.0
   },
   {
@@ -3709,7 +3709,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.0
   },
   {
@@ -3720,7 +3720,7 @@ const MAIN = [
     "flight": "A",
     "gross": "96",
     "net": "74",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -3731,7 +3731,7 @@ const MAIN = [
     "flight": "A",
     "gross": "83",
     "net": "76",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 25.0
   },
   {
@@ -3742,7 +3742,7 @@ const MAIN = [
     "flight": "A",
     "gross": "101",
     "net": "76",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 25.0
   },
   {
@@ -3753,7 +3753,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "75",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -3764,7 +3764,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "75",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -3775,7 +3775,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "79",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 10.0
   },
   {
@@ -3786,7 +3786,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "79",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 10.0
   },
   {
@@ -3874,7 +3874,7 @@ const MAIN = [
     "flight": "A",
     "gross": "45",
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 15.0
   },
   {
@@ -3885,7 +3885,7 @@ const MAIN = [
     "flight": "A",
     "gross": "45",
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 15.0
   },
   {
@@ -3896,7 +3896,7 @@ const MAIN = [
     "flight": "B",
     "gross": "52",
     "net": "40",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -3907,7 +3907,7 @@ const MAIN = [
     "flight": "B",
     "gross": "56",
     "net": "41",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -3918,7 +3918,7 @@ const MAIN = [
     "flight": "A",
     "gross": "43",
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -3929,7 +3929,7 @@ const MAIN = [
     "flight": "B",
     "gross": "51",
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -3940,7 +3940,7 @@ const MAIN = [
     "flight": "A",
     "gross": "47",
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.0
   },
   {
@@ -3951,7 +3951,7 @@ const MAIN = [
     "flight": "A",
     "gross": "42",
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.0
   },
   {
@@ -3962,7 +3962,7 @@ const MAIN = [
     "flight": "B",
     "gross": "50",
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -3973,7 +3973,7 @@ const MAIN = [
     "flight": "A",
     "gross": "92",
     "net": "70",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -3984,7 +3984,7 @@ const MAIN = [
     "flight": "A",
     "gross": "89",
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 30.0
   },
   {
@@ -3995,7 +3995,7 @@ const MAIN = [
     "flight": "A",
     "gross": "92",
     "net": "76",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 6.67
   },
   {
@@ -4006,7 +4006,7 @@ const MAIN = [
     "flight": "A",
     "gross": "99",
     "net": "76",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 6.67
   },
   {
@@ -4017,7 +4017,7 @@ const MAIN = [
     "flight": "A",
     "gross": "88",
     "net": "76",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 6.67
   },
   {
@@ -4028,7 +4028,7 @@ const MAIN = [
     "flight": "B",
     "gross": "106",
     "net": "77",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -4039,7 +4039,7 @@ const MAIN = [
     "flight": "B",
     "gross": "107",
     "net": "77",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -4050,7 +4050,7 @@ const MAIN = [
     "flight": "B",
     "gross": "115",
     "net": "80",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 20.0
   },
   {
@@ -4138,7 +4138,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "1",
     "payout": 15.0
   },
   {
@@ -4149,7 +4149,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "1",
     "payout": 15.0
   },
   {
@@ -4160,7 +4160,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "31",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -4171,7 +4171,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "32",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -4182,7 +4182,7 @@ const MAIN = [
     "flight": "A",
     "gross": "38",
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -4193,7 +4193,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -4204,7 +4204,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.33
   },
   {
@@ -4215,7 +4215,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.33
   },
   {
@@ -4226,7 +4226,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.33
   },
   {
@@ -4237,7 +4237,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.0
   },
   {
@@ -4248,7 +4248,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.0
   },
   {
@@ -4259,7 +4259,7 @@ const MAIN = [
     "flight": "A",
     "gross": "79",
     "net": "67",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -4270,7 +4270,7 @@ const MAIN = [
     "flight": "A",
     "gross": "78",
     "net": "71",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 30.0
   },
   {
@@ -4281,7 +4281,7 @@ const MAIN = [
     "flight": "A",
     "gross": "88",
     "net": "72",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 20.0
   },
   {
@@ -4292,7 +4292,7 @@ const MAIN = [
     "flight": "B",
     "gross": "94",
     "net": "65",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -4303,7 +4303,7 @@ const MAIN = [
     "flight": "B",
     "gross": "98",
     "net": "72",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 30.0
   },
   {
@@ -4314,7 +4314,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "74",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 10.0
   },
   {
@@ -4325,7 +4325,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "74",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 10.0
   },
   {
@@ -4413,7 +4413,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -4424,7 +4424,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -4435,7 +4435,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "40",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -4446,7 +4446,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -4457,7 +4457,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -4468,7 +4468,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -4479,7 +4479,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.0
   },
   {
@@ -4490,7 +4490,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.0
   },
   {
@@ -4501,7 +4501,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -4512,7 +4512,7 @@ const MAIN = [
     "flight": "A",
     "gross": "83",
     "net": "73",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -4523,7 +4523,7 @@ const MAIN = [
     "flight": "A",
     "gross": "108",
     "net": "81",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 24.0
   },
   {
@@ -4534,7 +4534,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "83",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 8.0
   },
   {
@@ -4545,7 +4545,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "83",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 8.0
   },
   {
@@ -4556,7 +4556,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "77",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 32.0
   },
   {
@@ -4567,7 +4567,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "77",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 32.0
   },
   {
@@ -4578,7 +4578,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "82",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 8.0
   },
   {
@@ -4589,7 +4589,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "82",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 8.0
   },
   {
@@ -4677,7 +4677,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 15.0
   },
   {
@@ -4688,7 +4688,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 15.0
   },
   {
@@ -4699,7 +4699,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -4710,7 +4710,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.0
   },
   {
@@ -4721,7 +4721,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.0
   },
   {
@@ -4732,7 +4732,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -4743,7 +4743,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 15.0
   },
   {
@@ -4754,7 +4754,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 15.0
   },
   {
@@ -4765,7 +4765,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -4776,7 +4776,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "71",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -4787,7 +4787,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "72",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 30.0
   },
   {
@@ -4798,7 +4798,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 20.0
   },
   {
@@ -4809,7 +4809,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -4820,7 +4820,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "77",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 30.0
   },
   {
@@ -4831,7 +4831,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "78",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 10.0
   },
   {
@@ -4842,7 +4842,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "78",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 10.0
   },
   {
@@ -4930,7 +4930,7 @@ const MAIN = [
     "flight": "A",
     "gross": "42",
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -4941,7 +4941,7 @@ const MAIN = [
     "flight": "B",
     "gross": "45",
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -4952,7 +4952,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -4963,7 +4963,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -4974,7 +4974,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.0
   },
   {
@@ -4985,7 +4985,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.0
   },
   {
@@ -4996,7 +4996,7 @@ const MAIN = [
     "flight": "A",
     "gross": "38",
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -5007,7 +5007,7 @@ const MAIN = [
     "flight": "B",
     "gross": "47",
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -5018,7 +5018,7 @@ const MAIN = [
     "flight": "A",
     "gross": "46",
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
@@ -5029,7 +5029,7 @@ const MAIN = [
     "flight": "B",
     "gross": "49",
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -5040,7 +5040,7 @@ const MAIN = [
     "flight": "A",
     "gross": "77",
     "net": "70",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 45.0
   },
   {
@@ -5051,7 +5051,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 22.5
   },
   {
@@ -5062,7 +5062,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 22.5
   },
   {
@@ -5073,7 +5073,7 @@ const MAIN = [
     "flight": "B",
     "gross": "99",
     "net": "72",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -5084,7 +5084,7 @@ const MAIN = [
     "flight": "B",
     "gross": "98",
     "net": "78",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 30.0
   },
   {
@@ -5095,7 +5095,7 @@ const MAIN = [
     "flight": "B",
     "gross": "104",
     "net": "83",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 20.0
   },
   {
@@ -5183,7 +5183,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "39",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 12.0
   },
   {
@@ -5194,7 +5194,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "39",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 12.0
   },
   {
@@ -5205,7 +5205,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 12.0
   },
   {
@@ -5216,7 +5216,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 12.0
   },
   {
@@ -5227,7 +5227,7 @@ const MAIN = [
     "flight": "A",
     "gross": "48",
     "net": "39",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -5238,7 +5238,7 @@ const MAIN = [
     "flight": "B",
     "gross": "44",
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -5249,7 +5249,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "41",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.0
   },
   {
@@ -5260,7 +5260,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "41",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.0
   },
   {
@@ -5271,7 +5271,7 @@ const MAIN = [
     "flight": "B",
     "gross": "52",
     "net": "40",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -5282,7 +5282,7 @@ const MAIN = [
     "flight": "A",
     "gross": "97",
     "net": "79",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -5293,7 +5293,7 @@ const MAIN = [
     "flight": "A",
     "gross": "98",
     "net": "81",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 24.0
   },
   {
@@ -5304,7 +5304,7 @@ const MAIN = [
     "flight": "A",
     "gross": "97",
     "net": "83",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 16.0
   },
   {
@@ -5315,7 +5315,7 @@ const MAIN = [
     "flight": "B",
     "gross": "100",
     "net": "77",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -5326,7 +5326,7 @@ const MAIN = [
     "flight": "B",
     "gross": "102",
     "net": "79",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 24.0
   },
   {
@@ -5337,7 +5337,7 @@ const MAIN = [
     "flight": "B",
     "gross": "102",
     "net": "80",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 16.0
   },
   {
@@ -5436,7 +5436,7 @@ const MAIN = [
     "flight": "A",
     "gross": "48",
     "net": "40",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -5447,7 +5447,7 @@ const MAIN = [
     "flight": "B",
     "gross": "46",
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -5458,7 +5458,7 @@ const MAIN = [
     "flight": "A",
     "gross": "51",
     "net": "41",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -5469,7 +5469,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 2.67
   },
   {
@@ -5480,7 +5480,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 2.67
   },
   {
@@ -5491,7 +5491,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 2.67
   },
   {
@@ -5502,7 +5502,7 @@ const MAIN = [
     "flight": "A",
     "gross": "44",
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -5513,7 +5513,7 @@ const MAIN = [
     "flight": "B",
     "gross": "49",
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -5524,7 +5524,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.0
   },
   {
@@ -5535,7 +5535,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.0
   },
   {
@@ -5546,7 +5546,7 @@ const MAIN = [
     "flight": "B",
     "gross": "50",
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -5557,7 +5557,7 @@ const MAIN = [
     "flight": "A",
     "gross": "96",
     "net": "80",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -5568,7 +5568,7 @@ const MAIN = [
     "flight": "A",
     "gross": "97",
     "net": "83",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 24.0
   },
   {
@@ -5579,7 +5579,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "84",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 5.33
   },
   {
@@ -5590,7 +5590,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "84",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 5.33
   },
   {
@@ -5601,7 +5601,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "84",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 5.33
   },
   {
@@ -5612,7 +5612,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "74",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 32.0
   },
   {
@@ -5623,7 +5623,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "74",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 32.0
   },
   {
@@ -5634,7 +5634,7 @@ const MAIN = [
     "flight": "B",
     "gross": "100",
     "net": "77",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 16.0
   },
   {
@@ -5733,7 +5733,7 @@ const MAIN = [
     "flight": "A",
     "gross": "45",
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 26.0
   },
   {
@@ -5744,7 +5744,7 @@ const MAIN = [
     "flight": "B",
     "gross": "49",
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 26.0
   },
   {
@@ -5755,7 +5755,7 @@ const MAIN = [
     "flight": "A",
     "gross": "43",
     "net": "40",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 13.0
   },
   {
@@ -5766,7 +5766,7 @@ const MAIN = [
     "flight": "B",
     "gross": "49",
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 13.0
   },
   {
@@ -5777,7 +5777,7 @@ const MAIN = [
     "flight": "A",
     "gross": "41",
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 26.0
   },
   {
@@ -5788,7 +5788,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 19.5
   },
   {
@@ -5799,7 +5799,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 19.5
   },
   {
@@ -5810,7 +5810,7 @@ const MAIN = [
     "flight": "A",
     "gross": "45",
     "net": "34",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 13.0
   },
   {
@@ -5821,7 +5821,7 @@ const MAIN = [
     "flight": "A",
     "gross": "96",
     "net": "75",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 65.0
   },
   {
@@ -5832,7 +5832,7 @@ const MAIN = [
     "flight": "A",
     "gross": "84",
     "net": "77",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 39.0
   },
   {
@@ -5843,7 +5843,7 @@ const MAIN = [
     "flight": "A",
     "gross": "93",
     "net": "78",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 26.0
   },
   {
@@ -5854,7 +5854,7 @@ const MAIN = [
     "flight": "B",
     "gross": "101",
     "net": "74",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 65.0
   },
   {
@@ -5865,7 +5865,7 @@ const MAIN = [
     "flight": "B",
     "gross": "102",
     "net": "77",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 39.0
   },
   {
@@ -5876,7 +5876,7 @@ const MAIN = [
     "flight": "B",
     "gross": "114",
     "net": "78",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 26.0
   },
   {
@@ -5964,7 +5964,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 13.5
   },
   {
@@ -5975,7 +5975,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 13.5
   },
   {
@@ -5986,7 +5986,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 15.0
   },
   {
@@ -5997,7 +5997,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 15.0
   },
   {
@@ -6008,7 +6008,7 @@ const MAIN = [
     "flight": "A",
     "gross": "41",
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -6019,7 +6019,7 @@ const MAIN = [
     "flight": "B",
     "gross": "50",
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -6030,7 +6030,7 @@ const MAIN = [
     "flight": "A",
     "gross": "46",
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -6041,7 +6041,7 @@ const MAIN = [
     "flight": "A",
     "gross": "46",
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -6052,7 +6052,7 @@ const MAIN = [
     "flight": "B",
     "gross": "48",
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -6063,7 +6063,7 @@ const MAIN = [
     "flight": "A",
     "gross": "87",
     "net": "71",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 45.0
   },
   {
@@ -6074,7 +6074,7 @@ const MAIN = [
     "flight": "A",
     "gross": "93",
     "net": "74",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 27.0
   },
   {
@@ -6085,7 +6085,7 @@ const MAIN = [
     "flight": "A",
     "gross": "96",
     "net": "79",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 18.0
   },
   {
@@ -6096,7 +6096,7 @@ const MAIN = [
     "flight": "B",
     "gross": "105",
     "net": "79",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -6107,7 +6107,7 @@ const MAIN = [
     "flight": "B",
     "gross": "101",
     "net": "80",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 25.0
   },
   {
@@ -6118,7 +6118,7 @@ const MAIN = [
     "flight": "B",
     "gross": "105",
     "net": "80",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 25.0
   },
   {
@@ -6217,7 +6217,7 @@ const MAIN = [
     "flight": "A",
     "gross": "40",
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 15.0
   },
   {
@@ -6228,7 +6228,7 @@ const MAIN = [
     "flight": "A",
     "gross": "38",
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 15.0
   },
   {
@@ -6239,7 +6239,7 @@ const MAIN = [
     "flight": "B",
     "gross": "48",
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 22.0
   },
   {
@@ -6250,7 +6250,7 @@ const MAIN = [
     "flight": "B",
     "gross": "49",
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 11.0
   },
   {
@@ -6261,7 +6261,7 @@ const MAIN = [
     "flight": "A",
     "gross": "41",
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -6272,7 +6272,7 @@ const MAIN = [
     "flight": "B",
     "gross": "44",
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.5
   },
   {
@@ -6283,7 +6283,7 @@ const MAIN = [
     "flight": "B",
     "gross": "46",
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.5
   },
   {
@@ -6294,7 +6294,7 @@ const MAIN = [
     "flight": "A",
     "gross": "40",
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -6305,7 +6305,7 @@ const MAIN = [
     "flight": "A",
     "gross": "80",
     "net": "70",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -6316,7 +6316,7 @@ const MAIN = [
     "flight": "A",
     "gross": "78",
     "net": "71",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 25.0
   },
   {
@@ -6327,7 +6327,7 @@ const MAIN = [
     "flight": "A",
     "gross": "84",
     "net": "71",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 25.0
   },
   {
@@ -6338,7 +6338,7 @@ const MAIN = [
     "flight": "B",
     "gross": "92",
     "net": "68",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 55.0
   },
   {
@@ -6349,7 +6349,7 @@ const MAIN = [
     "flight": "B",
     "gross": "101",
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 27.5
   },
   {
@@ -6360,7 +6360,7 @@ const MAIN = [
     "flight": "B",
     "gross": "102",
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 27.5
   },
   {
@@ -6437,7 +6437,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 22.0
   },
   {
@@ -6448,7 +6448,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 15.0
   },
   {
@@ -6459,7 +6459,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 15.0
   },
   {
@@ -6470,7 +6470,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 11.0
   },
   {
@@ -6481,7 +6481,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 22.0
   },
   {
@@ -6492,7 +6492,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -6503,7 +6503,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.5
   },
   {
@@ -6514,7 +6514,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.5
   },
   {
@@ -6525,7 +6525,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.33
   },
   {
@@ -6536,7 +6536,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.33
   },
   {
@@ -6547,7 +6547,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.33
   },
   {
@@ -6558,7 +6558,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "71",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 55.0
   },
   {
@@ -6569,7 +6569,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 33.0
   },
   {
@@ -6580,7 +6580,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "74",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 22.0
   },
   {
@@ -6591,7 +6591,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -6602,7 +6602,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -6613,7 +6613,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "77",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 20.0
   },
   {
@@ -6701,7 +6701,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -6712,7 +6712,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -6723,7 +6723,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "40",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.5
   },
   {
@@ -6734,7 +6734,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "40",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.5
   },
   {
@@ -6745,7 +6745,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 7.0
   },
   {
@@ -6756,7 +6756,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -6767,7 +6767,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -6778,7 +6778,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "41",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.5
   },
   {
@@ -6789,7 +6789,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "41",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.5
   },
   {
@@ -6800,7 +6800,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 7.0
   },
   {
@@ -6811,7 +6811,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "75",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 35.0
   },
   {
@@ -6822,7 +6822,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "82",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 21.0
   },
   {
@@ -6833,7 +6833,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "84",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 14.0
   },
   {
@@ -6844,7 +6844,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "71",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 35.0
   },
   {
@@ -6855,7 +6855,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "74",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 21.0
   },
   {
@@ -6866,7 +6866,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 14.0
   },
   {
@@ -6954,7 +6954,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 13.5
   },
   {
@@ -6965,7 +6965,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 13.5
   },
   {
@@ -6976,7 +6976,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -6987,7 +6987,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -6998,7 +6998,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "30",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -7009,7 +7009,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -7020,7 +7020,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "31",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
@@ -7031,7 +7031,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -7042,7 +7042,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "66",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 45.0
   },
   {
@@ -7053,7 +7053,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "68",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 27.0
   },
   {
@@ -7064,7 +7064,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "74",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 18.0
   },
   {
@@ -7075,7 +7075,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "68",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -7086,7 +7086,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 20.0
   },
   {
@@ -7097,7 +7097,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 20.0
   },
   {
@@ -7185,7 +7185,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -7196,7 +7196,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "31",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -7207,7 +7207,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
@@ -7218,7 +7218,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.0
   },
   {
@@ -7229,7 +7229,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.0
   },
   {
@@ -7240,7 +7240,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 9.0
   },
   {
@@ -7251,7 +7251,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 9.0
   },
   {
@@ -7262,7 +7262,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 9.0
   },
   {
@@ -7273,7 +7273,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "31",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -7284,7 +7284,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -7295,7 +7295,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "71",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 45.0
   },
   {
@@ -7306,7 +7306,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 11.25
   },
   {
@@ -7317,7 +7317,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 11.25
   },
   {
@@ -7328,7 +7328,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 11.25
   },
   {
@@ -7339,7 +7339,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 11.25
   },
   {
@@ -7350,7 +7350,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "65",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -7361,7 +7361,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "68",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 24.0
   },
   {
@@ -7372,7 +7372,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "71",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 16.0
   },
   {
@@ -7471,7 +7471,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 13.5
   },
   {
@@ -7482,7 +7482,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 13.5
   },
   {
@@ -7493,7 +7493,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -7504,7 +7504,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
@@ -7515,7 +7515,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -7526,7 +7526,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -7537,7 +7537,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -7548,7 +7548,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -7559,7 +7559,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
@@ -7570,7 +7570,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "66",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 45.0
   },
   {
@@ -7581,7 +7581,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "71",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 27.0
   },
   {
@@ -7592,7 +7592,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 18.0
   },
   {
@@ -7603,7 +7603,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "73",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 36.0
   },
   {
@@ -7614,7 +7614,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "73",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 36.0
   },
   {
@@ -7625,7 +7625,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "75",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 18.0
   },
   {
@@ -7713,7 +7713,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 15.0
   },
   {
@@ -7724,7 +7724,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 15.0
   },
   {
@@ -7735,7 +7735,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 22.0
   },
   {
@@ -7746,7 +7746,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 11.0
   },
   {
@@ -7757,7 +7757,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -7768,7 +7768,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "31",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 22.0
   },
   {
@@ -7779,7 +7779,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.0
   },
   {
@@ -7790,7 +7790,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.0
   },
   {
@@ -7801,7 +7801,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "32",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 11.0
   },
   {
@@ -7812,7 +7812,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "72",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -7823,7 +7823,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "72",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -7834,7 +7834,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "74",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 20.0
   },
   {
@@ -7845,7 +7845,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "66",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 55.0
   },
   {
@@ -7856,7 +7856,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "71",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 33.0
   },
   {
@@ -7867,7 +7867,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "72",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 22.0
   },
   {
@@ -7944,7 +7944,7 @@ const MAIN = [
     "flight": "A",
     "gross": "44",
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -7955,7 +7955,7 @@ const MAIN = [
     "flight": "B",
     "gross": "47",
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -7966,7 +7966,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.0
   },
   {
@@ -7977,7 +7977,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.0
   },
   {
@@ -7988,7 +7988,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -7999,7 +7999,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -8010,7 +8010,7 @@ const MAIN = [
     "flight": "A",
     "gross": "40",
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -8021,7 +8021,7 @@ const MAIN = [
     "flight": "B",
     "gross": "51",
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -8032,7 +8032,7 @@ const MAIN = [
     "flight": "A",
     "gross": "49",
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -8043,7 +8043,7 @@ const MAIN = [
     "flight": "B",
     "gross": "47",
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
@@ -8054,7 +8054,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "75",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -8065,7 +8065,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "80",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 30.0
   },
   {
@@ -8076,7 +8076,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "82",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 10.0
   },
   {
@@ -8087,7 +8087,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "82",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 10.0
   },
   {
@@ -8098,7 +8098,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "73",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 45.0
   },
   {
@@ -8109,7 +8109,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "75",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 27.0
   },
   {
@@ -8120,7 +8120,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "77",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 18.0
   },
   {
@@ -8219,7 +8219,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -8230,7 +8230,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 12.0
   },
   {
@@ -8241,7 +8241,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 12.0
   },
   {
@@ -8252,7 +8252,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "42",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.0
   },
   {
@@ -8263,7 +8263,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "42",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.0
   },
   {
@@ -8274,7 +8274,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -8285,7 +8285,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -8296,7 +8296,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -8307,7 +8307,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.0
   },
   {
@@ -8318,7 +8318,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.0
   },
   {
@@ -8329,7 +8329,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -8340,7 +8340,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "80",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 24.0
   },
   {
@@ -8351,7 +8351,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "85",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 16.0
   },
   {
@@ -8362,7 +8362,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "77",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -8373,7 +8373,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "79",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 24.0
   },
   {
@@ -8384,7 +8384,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "80",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 16.0
   },
   {
@@ -8461,7 +8461,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -8472,7 +8472,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -8483,7 +8483,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "40",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -8494,7 +8494,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 7.0
   },
   {
@@ -8505,7 +8505,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -8516,7 +8516,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "30",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -8527,7 +8527,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -8538,7 +8538,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 7.0
   },
   {
@@ -8549,7 +8549,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "78",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -8560,7 +8560,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "79",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 24.0
   },
   {
@@ -8571,7 +8571,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "80",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 8.0
   },
   {
@@ -8582,7 +8582,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "80",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 8.0
   },
   {
@@ -8593,7 +8593,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "62",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 35.0
   },
   {
@@ -8604,7 +8604,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "75",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 21.0
   },
   {
@@ -8615,7 +8615,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "77",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 14.0
   },
   {
@@ -8714,7 +8714,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 30.0
   },
   {
@@ -8725,7 +8725,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 22.5
   },
   {
@@ -8736,7 +8736,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 22.5
   },
   {
@@ -8747,7 +8747,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 15.0
   },
   {
@@ -8758,7 +8758,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 30.0
   },
   {
@@ -8769,7 +8769,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 30.0
   },
   {
@@ -8780,7 +8780,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 7.5
   },
   {
@@ -8791,7 +8791,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 7.5
   },
   {
@@ -8802,7 +8802,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 15.0
   },
   {
@@ -8813,7 +8813,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -8824,7 +8824,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -8835,7 +8835,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -8846,7 +8846,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "73",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 75.0
   },
   {
@@ -8857,7 +8857,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "74",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 45.0
   },
   {
@@ -8868,7 +8868,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 30.0
   },
   {
@@ -8956,7 +8956,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "30",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -8967,7 +8967,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 12.0
   },
   {
@@ -8978,7 +8978,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 12.0
   },
   {
@@ -8989,7 +8989,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.0
   },
   {
@@ -9000,7 +9000,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.0
   },
   {
@@ -9011,7 +9011,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -9022,7 +9022,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -9033,7 +9033,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "41",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -9044,7 +9044,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -9055,7 +9055,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "77",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -9066,7 +9066,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "79",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 24.0
   },
   {
@@ -9077,7 +9077,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "80",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 16.0
   },
   {
@@ -9088,7 +9088,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "73",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -9099,7 +9099,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "75",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 24.0
   },
   {
@@ -9110,7 +9110,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 16.0
   },
   {
@@ -9209,7 +9209,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -9220,7 +9220,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 22.0
   },
   {
@@ -9231,7 +9231,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -9242,7 +9242,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 11.0
   },
   {
@@ -9253,7 +9253,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 10.0
   },
   {
@@ -9264,7 +9264,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 10.0
   },
   {
@@ -9275,7 +9275,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 10.0
   },
   {
@@ -9286,7 +9286,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "30",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 22.0
   },
   {
@@ -9297,7 +9297,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 11.0
   },
   {
@@ -9308,7 +9308,7 @@ const MAIN = [
     "flight": "A",
     "gross": "97",
     "net": "74",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -9319,7 +9319,7 @@ const MAIN = [
     "flight": "A",
     "gross": "95",
     "net": "75",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 30.0
   },
   {
@@ -9330,7 +9330,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "77",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 5.0
   },
   {
@@ -9341,7 +9341,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "77",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 5.0
   },
   {
@@ -9352,7 +9352,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "77",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 5.0
   },
   {
@@ -9363,7 +9363,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "77",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 5.0
   },
   {
@@ -9374,7 +9374,7 @@ const MAIN = [
     "flight": "B",
     "gross": "93",
     "net": "64",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 55.0
   },
   {
@@ -9385,7 +9385,7 @@ const MAIN = [
     "flight": "B",
     "gross": "99",
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 33.0
   },
   {
@@ -9396,7 +9396,7 @@ const MAIN = [
     "flight": "B",
     "gross": "102",
     "net": "74",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 22.0
   },
   {
@@ -9473,7 +9473,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 24.0
   },
   {
@@ -9484,7 +9484,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 24.0
   },
   {
@@ -9495,7 +9495,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 12.0
   },
   {
@@ -9506,7 +9506,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.0
   },
   {
@@ -9517,7 +9517,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.0
   },
   {
@@ -9528,7 +9528,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.0
   },
   {
@@ -9539,7 +9539,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 24.0
   },
   {
@@ -9550,7 +9550,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 24.0
   },
   {
@@ -9561,7 +9561,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 12.0
   },
   {
@@ -9572,7 +9572,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 12.0
   },
   {
@@ -9583,7 +9583,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "72",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 48.0
   },
   {
@@ -9594,7 +9594,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "72",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 48.0
   },
   {
@@ -9605,7 +9605,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "77",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 24.0
   },
   {
@@ -9616,7 +9616,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "66",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 60.0
   },
   {
@@ -9627,7 +9627,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "70",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 30.0
   },
   {
@@ -9638,7 +9638,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "70",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 30.0
   },
   {
@@ -9737,7 +9737,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -9748,7 +9748,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -9759,7 +9759,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -9770,7 +9770,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -9781,7 +9781,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -9792,7 +9792,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -9803,7 +9803,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "31",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -9814,7 +9814,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -9825,7 +9825,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
@@ -9836,7 +9836,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "70",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -9847,7 +9847,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "72",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 25.0
   },
   {
@@ -9858,7 +9858,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "72",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 25.0
   },
   {
@@ -9869,7 +9869,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "72",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 45.0
   },
   {
@@ -9880,7 +9880,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "74",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 27.0
   },
   {
@@ -9891,7 +9891,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 9.0
   },
   {
@@ -9902,7 +9902,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 9.0
   },
   {
@@ -10001,7 +10001,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -10012,7 +10012,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -10023,7 +10023,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 7.0
   },
   {
@@ -10034,7 +10034,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -10045,7 +10045,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -10056,7 +10056,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "31",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -10067,7 +10067,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 7.0
   },
   {
@@ -10078,7 +10078,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "32",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -10089,7 +10089,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "74",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 35.0
   },
   {
@@ -10100,7 +10100,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "75",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 21.0
   },
   {
@@ -10111,7 +10111,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "78",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 7.0
   },
   {
@@ -10122,7 +10122,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "78",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 7.0
   },
   {
@@ -10133,7 +10133,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "63",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -10144,7 +10144,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "66",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 24.0
   },
   {
@@ -10155,7 +10155,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "72",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 16.0
   },
   {
@@ -10243,7 +10243,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 22.0
   },
   {
@@ -10254,7 +10254,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 22.0
   },
   {
@@ -10265,7 +10265,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "40",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.67
   },
   {
@@ -10276,7 +10276,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "40",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.67
   },
   {
@@ -10287,7 +10287,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "40",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.67
   },
   {
@@ -10298,7 +10298,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 11.0
   },
   {
@@ -10309,7 +10309,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 22.0
   },
   {
@@ -10320,7 +10320,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "31",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 22.0
   },
   {
@@ -10331,7 +10331,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 11.0
   },
   {
@@ -10342,7 +10342,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 11.0
   },
   {
@@ -10353,7 +10353,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 36.67
   },
   {
@@ -10364,7 +10364,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 36.67
   },
   {
@@ -10375,7 +10375,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 36.67
   },
   {
@@ -10386,7 +10386,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "70",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 55.0
   },
   {
@@ -10397,7 +10397,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "72",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 33.0
   },
   {
@@ -10408,7 +10408,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "73",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 22.0
   },
   {
@@ -10496,7 +10496,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 26.0
   },
   {
@@ -10507,7 +10507,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 26.0
   },
   {
@@ -10518,7 +10518,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 13.0
   },
   {
@@ -10529,7 +10529,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 13.0
   },
   {
@@ -10540,7 +10540,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 26.0
   },
   {
@@ -10551,7 +10551,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "31",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 26.0
   },
   {
@@ -10562,7 +10562,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 13.0
   },
   {
@@ -10573,7 +10573,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 13.0
   },
   {
@@ -10584,7 +10584,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "68",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 65.0
   },
   {
@@ -10595,7 +10595,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "70",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 32.5
   },
   {
@@ -10606,7 +10606,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "70",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 32.5
   },
   {
@@ -10617,7 +10617,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "66",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 65.0
   },
   {
@@ -10628,7 +10628,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "71",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 39.0
   },
   {
@@ -10639,7 +10639,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "72",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 26.0
   },
   {
@@ -10738,7 +10738,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 49.0
   },
   {
@@ -10749,7 +10749,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 49.0
   },
   {
@@ -10760,7 +10760,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 49.0
   },
   {
@@ -10771,7 +10771,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 49.0
   },
   {
@@ -10782,7 +10782,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 32.67
   },
   {
@@ -10793,7 +10793,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 32.67
   },
   {
@@ -10804,7 +10804,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 32.67
   },
   {
@@ -10815,7 +10815,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "30",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 56.0
   },
   {
@@ -10826,7 +10826,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "32",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 42.0
   },
   {
@@ -10837,7 +10837,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "69",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 84.0
   },
   {
@@ -10848,7 +10848,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "71",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 56.0
   },
   {
@@ -10859,7 +10859,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "74",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 14.0
   },
   {
@@ -10870,7 +10870,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "74",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 14.0
   },
   {
@@ -10881,7 +10881,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "69",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 84.0
   },
   {
@@ -10892,7 +10892,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "70",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 56.0
   },
   {
@@ -10903,7 +10903,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "72",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 28.0
   },
   {
@@ -10991,7 +10991,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -11002,7 +11002,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -11013,7 +11013,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -11024,7 +11024,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
@@ -11035,7 +11035,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 12.0
   },
   {
@@ -11046,7 +11046,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 12.0
   },
   {
@@ -11057,7 +11057,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -11068,7 +11068,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -11079,7 +11079,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -11090,7 +11090,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 32.0
   },
   {
@@ -11101,7 +11101,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 32.0
   },
   {
@@ -11112,7 +11112,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "78",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 16.0
   },
   {
@@ -11123,7 +11123,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "72",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 45.0
   },
   {
@@ -11134,7 +11134,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 11.25
   },
   {
@@ -11145,7 +11145,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 11.25
   },
   {
@@ -11156,7 +11156,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 11.25
   },
   {
@@ -11167,7 +11167,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 11.25
   },
   {
@@ -11255,7 +11255,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 12.0
   },
   {
@@ -11266,7 +11266,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 12.0
   },
   {
@@ -11277,7 +11277,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -11288,7 +11288,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 7.0
   },
   {
@@ -11299,7 +11299,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -11310,7 +11310,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "39",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 7.0
   },
   {
@@ -11321,7 +11321,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "39",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 7.0
   },
   {
@@ -11332,7 +11332,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "39",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 7.0
   },
   {
@@ -11343,7 +11343,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -11354,7 +11354,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "78",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -11365,7 +11365,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "79",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 20.0
   },
   {
@@ -11376,7 +11376,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "79",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 20.0
   },
   {
@@ -11387,7 +11387,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "78",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 35.0
   },
   {
@@ -11398,7 +11398,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "80",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 21.0
   },
   {
@@ -11409,7 +11409,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "81",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 14.0
   },
   {
@@ -11497,7 +11497,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -11508,7 +11508,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -11519,7 +11519,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -11530,7 +11530,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 7.0
   },
   {
@@ -11541,7 +11541,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 16.0
   },
   {
@@ -11552,7 +11552,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -11563,7 +11563,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 8.0
   },
   {
@@ -11574,7 +11574,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 7.0
   },
   {
@@ -11585,7 +11585,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "80",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 40.0
   },
   {
@@ -11596,7 +11596,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "81",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 24.0
   },
   {
@@ -11607,7 +11607,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "82",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 8.0
   },
   {
@@ -11618,7 +11618,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "82",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 8.0
   },
   {
@@ -11629,7 +11629,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "72",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 35.0
   },
   {
@@ -11640,7 +11640,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "74",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 21.0
   },
   {
@@ -11651,7 +11651,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "79",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 14.0
   },
   {
@@ -11728,7 +11728,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 19.0
   },
   {
@@ -11739,7 +11739,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 19.0
   },
   {
@@ -11750,7 +11750,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 36.0
   },
   {
@@ -11761,7 +11761,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 18.0
   },
   {
@@ -11772,7 +11772,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 19.0
   },
   {
@@ -11783,7 +11783,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 19.0
   },
   {
@@ -11794,7 +11794,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -11805,7 +11805,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -11816,7 +11816,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "70",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 95.0
   },
   {
@@ -11827,7 +11827,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 57.0
   },
   {
@@ -11838,7 +11838,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "74",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 19.0
   },
   {
@@ -11849,7 +11849,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "74",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 19.0
   },
   {
@@ -11860,7 +11860,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "68",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 90.0
   },
   {
@@ -11871,7 +11871,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "70",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 54.0
   },
   {
@@ -11882,7 +11882,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "71",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 36.0
   },
   {
@@ -11981,7 +11981,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 26.0
   },
   {
@@ -11992,7 +11992,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -12003,7 +12003,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -12014,7 +12014,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 13.0
   },
   {
@@ -12025,7 +12025,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 26.0
   },
   {
@@ -12036,7 +12036,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 28.0
   },
   {
@@ -12047,7 +12047,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 13.0
   },
   {
@@ -12058,7 +12058,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 14.0
   },
   {
@@ -12069,7 +12069,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "68",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 65.0
   },
   {
@@ -12080,7 +12080,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "74",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 39.0
   },
   {
@@ -12091,7 +12091,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "77",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 13.0
   },
   {
@@ -12102,7 +12102,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "77",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 13.0
   },
   {
@@ -12113,7 +12113,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "72",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 70.0
   },
   {
@@ -12124,7 +12124,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "75",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 42.0
   },
   {
@@ -12135,7 +12135,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "77",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 28.0
   },
   {
@@ -12234,7 +12234,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -12245,7 +12245,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -12256,7 +12256,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 26.0
   },
   {
@@ -12267,7 +12267,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 13.0
   },
   {
@@ -12278,7 +12278,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "30",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 28.0
   },
   {
@@ -12289,7 +12289,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 26.0
   },
   {
@@ -12300,7 +12300,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "32",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 14.0
   },
   {
@@ -12311,7 +12311,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 13.0
   },
   {
@@ -12322,7 +12322,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "65",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 70.0
   },
   {
@@ -12333,7 +12333,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "66",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 42.0
   },
   {
@@ -12344,7 +12344,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "70",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 28.0
   },
   {
@@ -12355,7 +12355,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "71",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 32.5
   },
   {
@@ -12366,7 +12366,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "71",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 32.5
   },
   {
@@ -12377,7 +12377,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "74",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 26.0
   },
   {
@@ -12454,7 +12454,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -12465,7 +12465,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -12476,7 +12476,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
@@ -12487,7 +12487,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "40",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -12498,7 +12498,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "40",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 4.5
   },
   {
@@ -12509,7 +12509,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 4.5
   },
   {
@@ -12520,7 +12520,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 4.5
   },
   {
@@ -12531,7 +12531,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 4.5
   },
   {
@@ -12542,7 +12542,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 4.5
   },
   {
@@ -12553,7 +12553,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "31",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 18.0
   },
   {
@@ -12564,7 +12564,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
@@ -12575,7 +12575,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "70",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 45.0
   },
   {
@@ -12586,7 +12586,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "77",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 27.0
   },
   {
@@ -12597,7 +12597,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "79",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 9.0
   },
   {
@@ -12608,7 +12608,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "79",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 9.0
   },
   {
@@ -12619,7 +12619,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "71",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 45.0
   },
   {
@@ -12630,7 +12630,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "79",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 27.0
   },
   {
@@ -12641,7 +12641,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "80",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 18.0
   },
   {
@@ -12729,7 +12729,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -12740,7 +12740,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 5.0
   },
   {
@@ -12751,7 +12751,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 5.0
   },
   {
@@ -12762,7 +12762,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 5.0
   },
   {
@@ -12773,7 +12773,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 5.0
   },
   {
@@ -12784,7 +12784,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -12795,7 +12795,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -12806,7 +12806,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "27",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -12817,7 +12817,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -12828,7 +12828,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "30",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -12839,7 +12839,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "70",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -12850,7 +12850,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 30.0
   },
   {
@@ -12861,7 +12861,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "77",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 10.0
   },
   {
@@ -12872,7 +12872,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "77",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 10.0
   },
   {
@@ -12883,7 +12883,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "65",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -12894,7 +12894,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "70",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 25.0
   },
   {
@@ -12905,7 +12905,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "70",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 25.0
   },
   {
@@ -13026,7 +13026,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -13037,7 +13037,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -13048,7 +13048,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -13059,7 +13059,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -13070,7 +13070,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -13081,7 +13081,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "1",
     "payout": 20.0
   },
   {
@@ -13092,7 +13092,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.0
   },
   {
@@ -13103,7 +13103,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.0
   },
   {
@@ -13114,7 +13114,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": null,
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.0
   },
   {
@@ -13125,7 +13125,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "71",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -13136,7 +13136,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "75",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 30.0
   },
   {
@@ -13147,7 +13147,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 20.0
   },
   {
@@ -13158,7 +13158,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "70",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 50.0
   },
   {
@@ -13169,7 +13169,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "75",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 30.0
   },
   {
@@ -13180,7 +13180,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 20.0
   },
   {
@@ -13268,7 +13268,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 24.0
   },
   {
@@ -13279,7 +13279,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 11.0
   },
   {
@@ -13290,7 +13290,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 11.0
   },
   {
@@ -13301,7 +13301,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.0
   },
   {
@@ -13312,7 +13312,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.0
   },
   {
@@ -13323,7 +13323,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.0
   },
   {
@@ -13334,7 +13334,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.0
   },
   {
@@ -13345,7 +13345,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "31",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 24.0
   },
   {
@@ -13356,7 +13356,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 11.0
   },
   {
@@ -13367,7 +13367,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 11.0
   },
   {
@@ -13378,7 +13378,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 12.0
   },
   {
@@ -13389,7 +13389,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "66",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 60.0
   },
   {
@@ -13400,7 +13400,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 36.0
   },
   {
@@ -13411,7 +13411,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "78",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 24.0
   },
   {
@@ -13422,7 +13422,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 27.5
   },
   {
@@ -13433,7 +13433,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 27.5
   },
   {
@@ -13444,7 +13444,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "79",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 22.0
   },
   {
@@ -13543,7 +13543,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 24.0
   },
   {
@@ -13554,7 +13554,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 24.0
   },
   {
@@ -13565,7 +13565,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 6.0
   },
   {
@@ -13576,7 +13576,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 6.0
   },
   {
@@ -13587,7 +13587,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 6.0
   },
   {
@@ -13598,7 +13598,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 6.0
   },
   {
@@ -13609,7 +13609,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 24.0
   },
   {
@@ -13620,7 +13620,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 24.0
   },
   {
@@ -13631,7 +13631,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "35",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 12.0
   },
   {
@@ -13642,7 +13642,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 12.0
   },
   {
@@ -13653,7 +13653,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "68",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 60.0
   },
   {
@@ -13664,7 +13664,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 30.0
   },
   {
@@ -13675,7 +13675,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 30.0
   },
   {
@@ -13686,7 +13686,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "69",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 48.0
   },
   {
@@ -13697,7 +13697,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "69",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 48.0
   },
   {
@@ -13708,7 +13708,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "71",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 24.0
   },
   {
@@ -13796,7 +13796,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 7.0
   },
   {
@@ -13807,7 +13807,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 7.0
   },
   {
@@ -13818,7 +13818,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -13829,7 +13829,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "40",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.5
   },
   {
@@ -13840,7 +13840,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "40",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.5
   },
   {
@@ -13851,7 +13851,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -13862,7 +13862,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -13873,7 +13873,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 7.0
   },
   {
@@ -13884,7 +13884,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 7.0
   },
   {
@@ -13895,7 +13895,7 @@ const MAIN = [
     "flight": "A",
     "gross": "81",
     "net": "70",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 35.0
   },
   {
@@ -13906,7 +13906,7 @@ const MAIN = [
     "flight": "A",
     "gross": "85",
     "net": "75",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 21.0
   },
   {
@@ -13917,7 +13917,7 @@ const MAIN = [
     "flight": "A",
     "gross": "95",
     "net": "78",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 14.0
   },
   {
@@ -13928,7 +13928,7 @@ const MAIN = [
     "flight": "B",
     "gross": "90",
     "net": "73",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 35.0
   },
   {
@@ -13939,7 +13939,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "79",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.5
   },
   {
@@ -13950,7 +13950,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "79",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 10.5
   },
   {
@@ -14038,7 +14038,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 24.0
   },
   {
@@ -14049,7 +14049,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 11.0
   },
   {
@@ -14060,7 +14060,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 11.0
   },
   {
@@ -14071,7 +14071,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 6.0
   },
   {
@@ -14082,7 +14082,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 6.0
   },
   {
@@ -14093,7 +14093,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "32",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 24.0
   },
   {
@@ -14104,7 +14104,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "27",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 22.0
   },
   {
@@ -14115,7 +14115,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 6.0
   },
   {
@@ -14126,7 +14126,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 6.0
   },
   {
@@ -14137,7 +14137,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.5
   },
   {
@@ -14148,7 +14148,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "36",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 5.5
   },
   {
@@ -14159,7 +14159,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "70",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 60.0
   },
   {
@@ -14170,7 +14170,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "72",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 36.0
   },
   {
@@ -14181,7 +14181,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "73",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 24.0
   },
   {
@@ -14192,7 +14192,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "67",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 55.0
   },
   {
@@ -14203,7 +14203,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "74",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 33.0
   },
   {
@@ -14214,7 +14214,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 11.0
   },
   {
@@ -14225,7 +14225,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "76",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 11.0
   },
   {
@@ -14324,7 +14324,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -14335,7 +14335,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "33",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 12.0
   },
   {
@@ -14346,7 +14346,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.5
   },
   {
@@ -14357,7 +14357,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "39",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.5
   },
   {
@@ -14368,7 +14368,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.0
   },
   {
@@ -14379,7 +14379,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 3.0
   },
   {
@@ -14390,7 +14390,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "37",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 14.0
   },
   {
@@ -14401,7 +14401,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "30",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 12.0
   },
   {
@@ -14412,7 +14412,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": "38",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 7.0
   },
   {
@@ -14423,7 +14423,7 @@ const MAIN = [
     "flight": "B",
     "gross": null,
     "net": "34",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 6.0
   },
   {
@@ -14434,7 +14434,7 @@ const MAIN = [
     "flight": "A",
     "gross": "84",
     "net": "76",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 35.0
   },
   {
@@ -14445,7 +14445,7 @@ const MAIN = [
     "flight": "A",
     "gross": "93",
     "net": "77",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 21.0
   },
   {
@@ -14456,7 +14456,7 @@ const MAIN = [
     "flight": "A",
     "gross": "85",
     "net": "81",
-    "placement": "Winner",
+    "placement": "3",
     "payout": 14.0
   },
   {
@@ -14467,7 +14467,7 @@ const MAIN = [
     "flight": "B",
     "gross": "89",
     "net": "72",
-    "placement": "Winner",
+    "placement": "1",
     "payout": 30.0
   },
   {
@@ -14478,7 +14478,7 @@ const MAIN = [
     "flight": "B",
     "gross": "97",
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
@@ -14489,7 +14489,7 @@ const MAIN = [
     "flight": "B",
     "gross": "90",
     "net": "73",
-    "placement": "Winner",
+    "placement": "2",
     "payout": 9.0
   },
   {
