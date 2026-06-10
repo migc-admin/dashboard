@@ -19186,41 +19186,6 @@ const HIST_TOURNAMENTS = [
     "number": "—",
     "course": "Skylinks",
     "notes": "SKIPPED — co-sanctioned; data to be added manually"
-  },
-  {
-    "tournament_id": "2021",
-    "year": "11",
-    "number": "255",
-    "course": "61",
-    "notes": null
-  },
-  {
-    "tournament_id": "2022",
-    "year": "11",
-    "number": "263",
-    "course": "62",
-    "notes": null
-  },
-  {
-    "tournament_id": "2023",
-    "year": "12",
-    "number": "271",
-    "course": "112",
-    "notes": null
-  },
-  {
-    "tournament_id": "2024",
-    "year": "12",
-    "number": "274",
-    "course": "124",
-    "notes": null
-  },
-  {
-    "tournament_id": "2025",
-    "year": "11",
-    "number": "259",
-    "course": "110",
-    "notes": null
   }
 ];
 

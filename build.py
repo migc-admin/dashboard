@@ -219,9 +219,11 @@ for _, r in hist_skins_raw.iterrows():
 hist_tourns_raw = pd.read_excel(HIST_XL, sheet_name="Tournament Reference")
 HIST_TOURNAMENTS = []
 for _, r in hist_tourns_raw.iterrows():
-    # Skip summary/header rows that have non-numeric Year
+    # Skip summary/header rows — must be a 4-digit year >= 2000
     try:
-        int(float(str(r["Year"])))
+        yr = int(float(str(r["Year"])))
+        if yr < 2000:
+            continue
     except (ValueError, TypeError):
         continue
     HIST_TOURNAMENTS.append({
