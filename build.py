@@ -234,6 +234,63 @@ for _, r in hist_tourns_raw.iterrows():
         "notes":         clean_str(r["Notes"]),
     })
 
+# ── Merge 2026 into historical arrays ────────────────────────────────────────
+
+# MAIN ← 2026 ACHIEVEMENTS
+for a in ACHIEVEMENTS:
+    # Derive flight from category (e.g. "Flight A - Overall" → "A")
+    flight = None
+    if "Flight A" in a["cat"]:
+        flight = "A"
+    elif "Flight B" in a["cat"]:
+        flight = "B"
+    MAIN.append({
+        "year":          "2026",
+        "tournament_id": a["tid"],
+        "category":      a["cat"],
+        "player":        a["player"],
+        "flight":        flight,
+        "gross":         None,
+        "net":           None,
+        "placement":     a["pl"],
+        "payout":        a["amt"],
+    })
+
+# HIST_SKINS ← 2026 SKINS
+for s in SKINS:
+    flight = None
+    if "Flight A" in s["cat"]:
+        flight = "A"
+    elif "Flight B" in s["cat"]:
+        flight = "B"
+    HIST_SKINS.append({
+        "year":          "2026",
+        "tournament_id": s["tid"],
+        "category":      s["cat"],
+        "player":        s["player"],
+        "flight":        flight,
+        "skins":         s["total"],
+        "payout":        s["amt"],
+    })
+
+# HIST_TOURNAMENTS ← 2026 TOURNAMENTS (only those with results)
+completed_tids = {r["tid"] for r in RESULTS}
+for i, t in enumerate(TOURNAMENTS, 1):
+    if t["id"] not in completed_tids:
+        continue
+    HIST_TOURNAMENTS.append({
+        "tournament_id": t["id"],
+        "year":          "2026",
+        "number":        str(i),
+        "course":        t["course"],
+        "notes":         None,
+    })
+
+# Sort all three by year then tournament_id
+MAIN.sort(key=lambda r: (r["year"] or "", r["tournament_id"] or ""))
+HIST_SKINS.sort(key=lambda r: (r["year"] or "", r["tournament_id"] or ""))
+HIST_TOURNAMENTS.sort(key=lambda r: (r["year"] or "", r["tournament_id"] or ""))
+
 # HIST_GUESTS (manually maintained — add names here as needed) ─────────────────
 HIST_GUESTS = [
     "Mat Vigil", "Jeff Carey", "Jason Payton", "Med Baheta", "Lucas Bouloy",
