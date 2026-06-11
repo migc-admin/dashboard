@@ -75,6 +75,19 @@ def fmt_date(v):
     # Already a string
     return str(v).strip()
 
+def clean_placement(v):
+    """Return '1', '2', '3', or 'Winner'. Handles numeric, string, and bad values."""
+    if pd.isna(v):
+        return "Winner"
+    s = str(v).strip()
+    if s in ("1", "2", "3"):
+        return s
+    try:
+        n = int(float(s))
+        return str(n) if str(n) in ("1", "2", "3") else "Winner"
+    except (ValueError, TypeError):
+        return "Winner"
+
 def placement_from_category(cat):
     """Derive numeric placement string from historical category name."""
     c = str(cat).lower()
@@ -197,9 +210,7 @@ for _, r in main_raw.iterrows():
         "flight":        clean_str(r["Flight"]),
         "gross":         clean_str(r["Gross"]),
         "net":           clean_str(r["Net"]),
-        "placement":     (str(int(float(str(r["Placement"])))).strip()
-                          if pd.notna(r.get("Placement")) and str(r.get("Placement","")).strip() not in ("", "Winner", "nan")
-                          else "Winner"),
+        "placement":     clean_placement(r.get("Placement")),
         "payout":        clean_payout(r["Payout"]),
     })
 
