@@ -1112,15 +1112,18 @@ function renderHistKPIs() {
   const grid = document.getElementById('hist-kpi-grid');
   grid.innerHTML = kpis.map(k => {
     const rows_html = k.data.length
-      ? k.data.map(([player,val],i,arr) => {
-          const rank = i===0 ? 1 : (val===arr[i-1][1] ? null : i+1);
-          const displayRank = rank ?? (arr.slice(0,i).findIndex((_,j)=>arr[j][1]===val)+1) || i+1;
-          return `
-          <div class="kpi-row ${displayRank===1?'rank-1-row':''}">
-            <div class="kpi-rank">${displayRank}</div>
-            <div class="kpi-player">${player}${guestBadge(player)}</div>
-            <div class="kpi-val">${k.fmt(val)}</div>
-          </div>`;}).join('')
+      ? (() => {
+          let rank = 1;
+          return k.data.map(([player,val],i,arr) => {
+            if (i > 0 && val !== arr[i-1][1]) rank = i + 1;
+            return `
+            <div class="kpi-row ${rank===1?'rank-1-row':''}">
+              <div class="kpi-rank">${rank}</div>
+              <div class="kpi-player">${player}${guestBadge(player)}</div>
+              <div class="kpi-val">${k.fmt(val)}</div>
+            </div>`;
+          }).join('');
+        })()
       : '<div class="empty-state">No data</div>';
     return `
       <div class="kpi-card">
