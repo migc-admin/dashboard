@@ -1769,24 +1769,10 @@ function guestLast(a,b){const ga=isGuest(a.player||a.p)?1:0,gb=isGuest(b.player|
 let _tglCache=null;
 function getTGLCache(){
   if(_tglCache)return _tglCache;
+  // Use pre-calculated points from spreadsheet (TGL_POINTS)
   _tglCache={};
   TOURNAMENTS.filter(t=>t.tgl).forEach(t=>{
-    _tglCache[t.id]={};
-    ['A','B'].forEach(fl=>{
-      const participants=(TGL_PARTICIPANTS[t.id]||[]);
-      const flRows=RESULTS.filter(r=>r.tid===t.id&&r.flight===fl);
-      const n=flRows.length; if(!n)return;
-      const sorted=[...flRows].sort((a,b)=>a.net-b.net);
-      let pos=0;
-      while(pos<n){
-        const net=sorted[pos].net; let end=pos;
-        while(end<n&&sorted[end].net===net)end++;
-        let totalPts=0; for(let k=pos;k<end;k++)totalPts+=(n-k);
-        const pts=totalPts/(end-pos);
-        for(let k=pos;k<end;k++){if(participants.includes(sorted[k].player))_tglCache[t.id][sorted[k].player]=pts;}
-        pos=end;
-      }
-    });
+    if(TGL_POINTS[t.id]) _tglCache[t.id]=TGL_POINTS[t.id];
   });
   return _tglCache;
 }

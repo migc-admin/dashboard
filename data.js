@@ -21437,6 +21437,49 @@ const TGL_PARTICIPANTS = {
   ]
 };
 
+const TGL_POINTS = {
+  "2026_02": {
+    "Kevin Vargas": 12.0,
+    "Taylor Yates": 7.5,
+    "Tai Ho": 4.0,
+    "John Nothdurft": 2.0,
+    "Colin Harrison": 10.0,
+    "Kevin Taylor": 7.5,
+    "Art Hernandez": 5.5,
+    "Max O'Brien": 2.0
+  },
+  "2026_03": {
+    "Carlos Bouloy": 13.5,
+    "Chris Chang": 11.0,
+    "Spencer Higgins": 8.5,
+    "Andy Pendleton": 3.0,
+    "David Wu": 2.0,
+    "Mikel Hodges": 11.5,
+    "Tam Tran": 10.0,
+    "Danny Lopez": 5.0
+  },
+  "2026_04": {
+    "Paul Toledo": 18.0,
+    "John Nothdurft": 15.0,
+    "Tom Shea": 11.0,
+    "JP Hill": 9.0,
+    "Colin Chang": 7.5,
+    "Kevin Taylor": 16.5,
+    "Mike Paguyo": 7.5,
+    "Danny Marin": 2.0
+  },
+  "2026_05": {
+    "Kevin Vargas": 8.0,
+    "Mikel Hodges": 6.5,
+    "Taylor Yates": 5.0,
+    "Tai Ho": 1.0,
+    "Art Hernandez": 8.0,
+    "Will Vuong": 8.0,
+    "Juan Ramirez": 6.0,
+    "Paul Hsieh": 4.0
+  }
+};
+
 const RESULTS = [
   {
     "tid": "2026_01",

@@ -137,17 +137,19 @@ for _, r in tourns_raw.iterrows():
         "tgl":    str(r["TGL Event"]).strip().lower() == "yes",
     })
 
-# RESULTS + TGL_PARTICIPANTS ──────────────────────────────────────────────────
+# RESULTS + TGL_PARTICIPANTS + TGL_POINTS ─────────────────────────────────────
 results_raw = pd.read_excel(SEASON_XL, sheet_name="Tournament_Results")
 RESULTS = []
 TGL_PARTICIPANTS = {}
+TGL_POINTS = {}  # {tid: {player: points}} — from spreadsheet col L
 
 for _, r in results_raw.iterrows():
     tid = str(r["Tournament ID"]).strip()
+    player = str(r["Player"]).strip()
     RESULTS.append({
         "tid":    tid,
         "pid":    clean_int(r["Player ID"]),
-        "player": str(r["Player"]).strip(),
+        "player": player,
         "flight": str(r["Flight"]).strip() if pd.notna(r["Flight"]) else None,
         "hcp":    clean_int(r["Handicap"]),
         "gross":  clean_int(r["Gross"]),
@@ -158,7 +160,11 @@ for _, r in results_raw.iterrows():
     })
     # Collect TGL opt-ins
     if str(r.get("TGL Player", "")).strip() == "Yes":
-        TGL_PARTICIPANTS.setdefault(tid, []).append(str(r["Player"]).strip())
+        TGL_PARTICIPANTS.setdefault(tid, []).append(player)
+    # Collect pre-calculated TGL points from spreadsheet
+    pts = clean_float(r.get("TGL Points"))
+    if pts is not None:
+        TGL_POINTS.setdefault(tid, {})[player] = pts
 
 # ACHIEVEMENTS ────────────────────────────────────────────────────────────────
 ach_raw = pd.read_excel(SEASON_XL, sheet_name="Tournament_Acheivements")
@@ -335,6 +341,8 @@ lines = [
     js_block("TOURNAMENTS", TOURNAMENTS),
     "\n",
     js_block("TGL_PARTICIPANTS", TGL_PARTICIPANTS),
+    "\n",
+    js_block("TGL_POINTS", TGL_POINTS),
     "\n",
     js_block("RESULTS", RESULTS),
     "\n",
