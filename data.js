@@ -21422,7 +21422,7 @@ const TGL_PARTICIPANTS = {
     "JP Hill",
     "Colin Chang",
     "Kevin Taylor",
-    "Mike Pena",
+    "Mike Paguyo",
     "Danny Marin"
   ],
   "2026_05": [
