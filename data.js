@@ -14852,7 +14852,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "1",
+    "placement": "2",
     "payout": 4.0
   },
   {
@@ -14863,7 +14863,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "1",
+    "placement": "2",
     "payout": 4.0
   },
   {
@@ -14874,7 +14874,7 @@ const MAIN = [
     "flight": "A",
     "gross": null,
     "net": null,
-    "placement": "1",
+    "placement": "2",
     "payout": 4.0
   },
   {
@@ -15887,7 +15887,7 @@ const MAIN = [
     "gross": null,
     "net": null,
     "placement": "2",
-    "payout": 25.0
+    "payout": 30.0
   },
   {
     "year": "2026",
@@ -15898,7 +15898,7 @@ const MAIN = [
     "gross": null,
     "net": null,
     "placement": "3",
-    "payout": 25.0
+    "payout": 20.0
   },
   {
     "year": "2026",
@@ -16052,7 +16052,7 @@ const MAIN = [
     "gross": null,
     "net": null,
     "placement": "Winner",
-    "payout": 10.0
+    "payout": 20.0
   },
   {
     "year": "2026",
@@ -16063,7 +16063,7 @@ const MAIN = [
     "gross": null,
     "net": null,
     "placement": "Winner",
-    "payout": 10.0
+    "payout": 20.0
   },
   {
     "year": "2026",
@@ -24165,7 +24165,7 @@ const ACHIEVEMENTS = [
     "pid": 20,
     "player": "Kevin Vargas",
     "cat": "Flight A - Back 9",
-    "pl": "1",
+    "pl": "2",
     "amt": 4.0
   },
   {
@@ -24173,7 +24173,7 @@ const ACHIEVEMENTS = [
     "pid": 6,
     "player": "Carlos Bouloy",
     "cat": "Flight A - Back 9",
-    "pl": "1",
+    "pl": "2",
     "amt": 4.0
   },
   {
@@ -24181,7 +24181,7 @@ const ACHIEVEMENTS = [
     "pid": 36,
     "player": "Taylor Yates",
     "cat": "Flight A - Back 9",
-    "pl": "1",
+    "pl": "2",
     "amt": 4.0
   },
   {
@@ -24918,7 +24918,7 @@ const ACHIEVEMENTS = [
     "player": "Danny Lopez",
     "cat": "Flight B - Overall",
     "pl": "2",
-    "amt": 25.0
+    "amt": 30.0
   },
   {
     "tid": "2026_06",
@@ -24926,7 +24926,7 @@ const ACHIEVEMENTS = [
     "player": "Nick Harris",
     "cat": "Flight B - Overall",
     "pl": "3",
-    "amt": 25.0
+    "amt": 20.0
   },
   {
     "tid": "2026_06",
@@ -25038,7 +25038,7 @@ const ACHIEVEMENTS = [
     "player": "William Colbert",
     "cat": "Flight A - Long Drive",
     "pl": "Winner",
-    "amt": 10.0
+    "amt": 20.0
   },
   {
     "tid": "2026_06",
@@ -25046,7 +25046,7 @@ const ACHIEVEMENTS = [
     "player": "Tam Tran",
     "cat": "Flight B - Long Drive",
     "pl": "Winner",
-    "amt": 10.0
+    "amt": 20.0
   },
   {
     "tid": "2026_06",
