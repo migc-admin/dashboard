@@ -41,7 +41,7 @@ def clean_int(v):
         return int(v)
     except (ValueError, TypeError):
         s = str(v).strip()
-        return None if s in ("", "nan", "TBD", "—", "-") else int(float(s))
+        return None if s in ("", "nan", "TBD", "DNP", "—", "-") else int(float(s))
 
 def clean_float(v):
     if pd.isna(v):
@@ -50,7 +50,7 @@ def clean_float(v):
         return float(v)
     except (ValueError, TypeError):
         s = str(v).strip().replace("$", "").replace(",", "")
-        return None if s in ("", "nan") else float(s)
+        return None if s in ("", "nan", "DNP") else float(s)
 
 def clean_payout(v):
     """Strip $ and commas, return float or 0."""

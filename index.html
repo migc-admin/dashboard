@@ -1964,26 +1964,27 @@ function renderKPIs(){
 // INSIGHTS
 // ================================================================
 function renderInsights(){
-  const highG=RESULTS.reduce((b,r)=>r.gross>(b?.gross||0)?r:b,null);
-  const lowG =RESULTS.reduce((b,r)=>r.gross<(b?.gross||9999)?r:b,null);
+  const resWithGross=RESULTS.filter(r=>r.gross!==null);
+  const highG=resWithGross.reduce((b,r)=>r.gross>(b?.gross||0)?r:b,null);
+  const lowG =resWithGross.reduce((b,r)=>r.gross<(b?.gross||9999)?r:b,null);
   const resWithPutts=RESULTS.filter(r=>r.putts!==null);
   const lowP=resWithPutts.length?resWithPutts.reduce((b,r)=>r.putts<(b?.putts||9999)?r:b,null):null;
-  const attMap={};RESULTS.forEach(r=>{attMap[r.player]=attMap[r.player]||new Set();attMap[r.player].add(r.tid);});
+  const attMap={};resWithGross.forEach(r=>{attMap[r.player]=attMap[r.player]||new Set();attMap[r.player].add(r.tid);});
   const attSorted=Object.entries(attMap).sort((a,b)=>b[1].size-a[1].size);
   const maxAtt=attSorted[0][1].size;
   const attTied=attSorted.filter(x=>x[1].size===maxAtt).map(x=>x[0]);
   // Lowest avg gross per player (min 2 rounds)
-  const gMap={};RESULTS.forEach(r=>{gMap[r.player]=gMap[r.player]||{s:0,c:0};gMap[r.player].s+=r.gross;gMap[r.player].c++;});
+  const gMap={};resWithGross.forEach(r=>{gMap[r.player]=gMap[r.player]||{s:0,c:0};gMap[r.player].s+=r.gross;gMap[r.player].c++;});
   const lgAvg=Object.entries(gMap).filter(([,v])=>v.c>=2).map(([n,v])=>({n,avg:v.s/v.c})).sort((a,b)=>a.avg-b.avg)[0];
   // Course avg gross (highest and lowest)
-  const cMap={};RESULTS.forEach(r=>{const t=TOURNAMENTS.find(t=>t.id===r.tid);if(!t)return;cMap[t.name]=cMap[t.name]||{sum:0,c:0};cMap[t.name].sum+=r.gross;cMap[t.name].c++;});
+  const cMap={};resWithGross.forEach(r=>{const t=TOURNAMENTS.find(t=>t.id===r.tid);if(!t)return;cMap[t.name]=cMap[t.name]||{sum:0,c:0};cMap[t.name].sum+=r.gross;cMap[t.name].c++;});
   const courseAvgs=Object.entries(cMap).map(([c,v])=>({c,avg:v.sum/v.c})).sort((a,b)=>b.avg-a.avg);
   const hardest=courseAvgs[0]||null;
   const easiest=courseAvgs[courseAvgs.length-1]||null;
   // CTP by flight
   let ctpA=0,ctpB=0;ACHIEVEMENTS.filter(a=>a.cat==="Closest to the Pin").forEach(a=>{const r=RESULTS.find(r=>r.player===a.player&&r.tid===a.tid);if(r?.flight==="A")ctpA++;else if(r?.flight==="B")ctpB++;});
-  const medA=median(RESULTS.filter(r=>r.flight==="A").map(r=>r.net));
-  const medB=median(RESULTS.filter(r=>r.flight==="B").map(r=>r.net));
+  const medA=median(RESULTS.filter(r=>r.flight==="A"&&r.net!==null).map(r=>r.net));
+  const medB=median(RESULTS.filter(r=>r.flight==="B"&&r.net!==null).map(r=>r.net));
   el("insight-grid").innerHTML=[
     {icon:"&#x1FACF;",lbl:"&#x1FACF; Donkey Score (Season High Gross)",name:highG?`${highG.player} &#8212; ${highG.gross}`:"&#8212;",val:highG?tName(highG.tid):""},
     {icon:"&#128201;",lbl:"Season Low Gross",name:lowG?`${lowG.player} &#8212; ${lowG.gross}`:"&#8212;",val:lowG?tName(lowG.tid):""},
@@ -2053,7 +2054,7 @@ function renderHighGross(){
   const tf=el("ach-t").value;
   const tids=tf?[tf]:[...new Set(RESULTS.map(r=>r.tid))].sort().reverse();
   ["A","B"].forEach(fl=>{
-    const rows=tids.map(tid=>{const frs=RESULTS.filter(r=>r.tid===tid&&r.flight===fl);if(!frs.length)return null;const top=frs.reduce((mx,r)=>r.gross>mx.gross?r:mx);return{tid,player:top.player,gross:top.gross};}).filter(Boolean);
+    const rows=tids.map(tid=>{const frs=RESULTS.filter(r=>r.tid===tid&&r.flight===fl&&r.gross!==null);if(!frs.length)return null;const top=frs.reduce((mx,r)=>r.gross>mx.gross?r:mx);return{tid,player:top.player,gross:top.gross};}).filter(Boolean);
     el(fl==="A"?"ac-hga":"ac-hgb").innerHTML=!rows.length?`<tr class="empty"><td colspan="3">No data</td></tr>`:rows.map(r=>`<tr><td>${tName(r.tid)}</td><td>${r.player}${gtag(r.player)}</td><td class="tc"><strong>${r.gross}</strong></td></tr>`).join("");
   });
 }
@@ -2101,13 +2102,22 @@ function renderResults(){
     return{...r,tglPts:pts,isTGL:(TGL_PARTICIPANTS[r.tid]||[]).includes(r.player)};
   });
   const isSorted=SORT.results.col!==null;
-  if(!isSorted)rows=[...rows].sort((a,b)=>a.flight<b.flight?-1:a.flight>b.flight?1:a.net-b.net);else rows=applySort(rows,"results");
-  const bestA=Math.min(...rows.filter(r=>r.flight==="A").map(r=>r.net).filter(isFinite));
-  const bestB=Math.min(...rows.filter(r=>r.flight==="B").map(r=>r.net).filter(isFinite));
+  if(!isSorted)rows=[...rows].sort((a,b)=>a.flight<b.flight?-1:a.flight>b.flight?1:(a.net??Infinity)-(b.net??Infinity));else rows=applySort(rows,"results");
+  const bestA=Math.min(...rows.filter(r=>r.flight==="A").map(r=>r.net).filter(v=>v!==null&&isFinite(v)));
+  const bestB=Math.min(...rows.filter(r=>r.flight==="B").map(r=>r.net).filter(v=>v!==null&&isFinite(v)));
   el("res-body").innerHTML=!rows.length?`<tr class="empty"><td colspan="10">No results</td></tr>`:rows.map(r=>{
     const winner=!isSorted&&((r.flight==="A"&&r.net===bestA)||(r.flight==="B"&&r.net===bestB));
     const tglCell=r.isTGL?`<span style="background:#cde8d8;color:var(--augusta);font-size:.68rem;font-weight:700;padding:1px 7px;border-radius:8px;">&#10003;</span>`:`<span style="color:#ccc;">&#8212;</span>`;
     const ptsCell=r.tglPts!==null?`<strong style="color:var(--fairway)">${r.tglPts.toFixed(1)}</strong>`:'<span style="color:#ccc;">&#8212;</span>';
+    if(r.gross===null){
+      return`<tr>
+        <td>${r.player}${gtag(r.player)}</td>
+        <td class="tc"><span class="fbadge${r.flight==="B"?" b-b":""}" style="font-size:.6rem;padding:2px 7px;">${r.flight}</span></td>
+        <td class="tc" colspan="5" style="color:var(--muted);font-style:italic;">DNP &#8212; Did Not Play</td>
+        <td class="tc">${tglCell}</td>
+        <td class="tr">${ptsCell}</td>
+      </tr>`;
+    }
     return`<tr class="${winner?"r1-result":""}">
       <td>${r.player}${gtag(r.player)}</td>
       <td class="tc"><span class="fbadge${r.flight==="B"?" b-b":""}" style="font-size:.6rem;padding:2px 7px;">${r.flight}</span></td>
@@ -2133,14 +2143,23 @@ function renderPlayerScoring(){
   const tf=el("ps-t").value,pf=el("ps-p").value;
   let rows=RESULTS.filter(r=>(!tf||r.tid===tf)&&(!pf||r.player===pf));
   if(!SORT.ps.col)rows=[...rows].sort((a,b)=>a.player.localeCompare(b.player)||a.tid.localeCompare(b.tid));else rows=applySort(rows,"ps");
-  el("ps-body").innerHTML=!rows.length?`<tr class="empty"><td colspan="9">No results</td></tr>`:rows.map(r=>`<tr>
+  el("ps-body").innerHTML=!rows.length?`<tr class="empty"><td colspan="9">No results</td></tr>`:rows.map(r=>{
+    if(r.gross===null){
+      return`<tr>
+        <td>${r.player}${gtag(r.player)}</td><td>${tName(r.tid)}</td>
+        <td class="tc"><span class="fbadge${r.flight==="B"?" b-b":""}" style="font-size:.6rem;padding:2px 7px;">${r.flight}</span></td>
+        <td class="tc" colspan="6" style="color:var(--muted);font-style:italic;">DNP &#8212; Did Not Play</td>
+      </tr>`;
+    }
+    return`<tr>
     <td>${r.player}${gtag(r.player)}</td><td>${tName(r.tid)}</td>
     <td class="tc"><span class="fbadge${r.flight==="B"?" b-b":""}" style="font-size:.6rem;padding:2px 7px;">${r.flight}</span></td>
     <td class="tc">${r.hcp}</td><td class="tc">${r.gross}</td>
     <td class="tc"><strong>${r.net}</strong></td>
     <td class="tc">${r.f9}</td><td class="tc">${r.b9}</td>
     <td class="tc">${r.putts!==null?r.putts:"&#8212;"}</td>
-  </tr>`).join("");
+  </tr>`;
+  }).join("");
   updateSortHdrs("tbl-ps","ps");
 }
 

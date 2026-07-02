@@ -15833,6 +15833,281 @@ const MAIN = [
     "net": null,
     "placement": "Winner",
     "payout": 27.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight A - Overall",
+    "player": "John Nothdurft",
+    "flight": "A",
+    "gross": null,
+    "net": null,
+    "placement": "1",
+    "payout": 50.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight A - Overall",
+    "player": "Tai Ho",
+    "flight": "A",
+    "gross": null,
+    "net": null,
+    "placement": "2",
+    "payout": 25.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight A - Overall",
+    "player": "Jorge Rayo",
+    "flight": "A",
+    "gross": null,
+    "net": null,
+    "placement": "2",
+    "payout": 25.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight B - Overall",
+    "player": "Juan Ramirez",
+    "flight": "B",
+    "gross": null,
+    "net": null,
+    "placement": "1",
+    "payout": 50.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight B - Overall",
+    "player": "Danny Lopez",
+    "flight": "B",
+    "gross": null,
+    "net": null,
+    "placement": "2",
+    "payout": 25.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight B - Overall",
+    "player": "Nick Harris",
+    "flight": "B",
+    "gross": null,
+    "net": null,
+    "placement": "3",
+    "payout": 25.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight A - Front 9",
+    "player": "Kevin Vargas",
+    "flight": "A",
+    "gross": null,
+    "net": null,
+    "placement": "1",
+    "payout": 10.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight A - Front 9",
+    "player": "John Nothdurft",
+    "flight": "A",
+    "gross": null,
+    "net": null,
+    "placement": "1",
+    "payout": 10.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight A - Front 9",
+    "player": "Tai Ho",
+    "flight": "A",
+    "gross": null,
+    "net": null,
+    "placement": "1",
+    "payout": 10.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight B - Front 9",
+    "player": "Juan Ramirez",
+    "flight": "B",
+    "gross": null,
+    "net": null,
+    "placement": "1",
+    "payout": 20.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight B - Front 9",
+    "player": "Danny Lopez",
+    "flight": "B",
+    "gross": null,
+    "net": null,
+    "placement": "2",
+    "payout": 5.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight B - Front 9",
+    "player": "Adrianna Moore",
+    "flight": "B",
+    "gross": null,
+    "net": null,
+    "placement": "2",
+    "payout": 5.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight A - Back 9",
+    "player": "John Nothdurft",
+    "flight": "A",
+    "gross": null,
+    "net": null,
+    "placement": "1",
+    "payout": 15.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight A - Back 9",
+    "player": "Mat Vigil",
+    "flight": "A",
+    "gross": null,
+    "net": null,
+    "placement": "1",
+    "payout": 15.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight B - Back 9",
+    "player": "Juan Ramirez",
+    "flight": "B",
+    "gross": null,
+    "net": null,
+    "placement": "1",
+    "payout": 20.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight B - Back 9",
+    "player": "Nick Harris",
+    "flight": "B",
+    "gross": null,
+    "net": null,
+    "placement": "2",
+    "payout": 5.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight B - Back 9",
+    "player": "Danny Lopez",
+    "flight": "B",
+    "gross": null,
+    "net": null,
+    "placement": "2",
+    "payout": 5.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Low Putts",
+    "player": "Mat Vigil",
+    "flight": null,
+    "gross": null,
+    "net": null,
+    "placement": "Winner",
+    "payout": 20.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Low Putts",
+    "player": "Marcel Mendoza",
+    "flight": null,
+    "gross": null,
+    "net": null,
+    "placement": "Winner",
+    "payout": 20.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight A - Long Drive",
+    "player": "William Colbert",
+    "flight": "A",
+    "gross": null,
+    "net": null,
+    "placement": "Winner",
+    "payout": 10.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight B - Long Drive",
+    "player": "Tam Tran",
+    "flight": "B",
+    "gross": null,
+    "net": null,
+    "placement": "Winner",
+    "payout": 10.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Closest to the Pin",
+    "player": "Med Baheta",
+    "flight": null,
+    "gross": null,
+    "net": null,
+    "placement": "Winner",
+    "payout": 25.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Closest to the Pin",
+    "player": "Med Baheta",
+    "flight": null,
+    "gross": null,
+    "net": null,
+    "placement": "Winner",
+    "payout": 25.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Closest to the Pin",
+    "player": "Mat Vigil",
+    "flight": null,
+    "gross": null,
+    "net": null,
+    "placement": "Winner",
+    "payout": 25.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Closest to the Pin",
+    "player": "Kevin Vargas",
+    "flight": null,
+    "gross": null,
+    "net": null,
+    "placement": "Winner",
+    "payout": 25.0
   }
 ];
 
@@ -20561,6 +20836,87 @@ const HIST_SKINS = [
     "flight": "B",
     "skins": 1,
     "payout": 13.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight A - Skins",
+    "player": "Jorge Rayo",
+    "flight": "A",
+    "skins": 8,
+    "payout": 80.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight A - Skins",
+    "player": "Spencer Higgins",
+    "flight": "A",
+    "skins": 5,
+    "payout": 50.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight A - Skins",
+    "player": "Tai Ho",
+    "flight": "A",
+    "skins": 4,
+    "payout": 40.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight A - Skins",
+    "player": "John Nothdurft",
+    "flight": "A",
+    "skins": 1,
+    "payout": 10.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight B - Skins",
+    "player": "Juan Ramirez",
+    "flight": "B",
+    "skins": 8,
+    "payout": 80.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight B - Skins",
+    "player": "Nick Harris",
+    "flight": "B",
+    "skins": 3,
+    "payout": 30.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight B - Skins",
+    "player": "Mike Paguyo",
+    "flight": "B",
+    "skins": 3,
+    "payout": 30.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight B - Skins",
+    "player": "Marcel Mendoza",
+    "flight": "B",
+    "skins": 2,
+    "payout": 20.0
+  },
+  {
+    "year": "2026",
+    "tournament_id": "2026_06",
+    "category": "Flight B - Skins",
+    "player": "Mike Pena",
+    "flight": "B",
+    "skins": 2,
+    "payout": 20.0
   }
 ];
 
@@ -21012,6 +21368,13 @@ const HIST_TOURNAMENTS = [
     "number": "5",
     "course": "The Links at Lakehouse",
     "notes": null
+  },
+  {
+    "tournament_id": "2026_06",
+    "year": "2026",
+    "number": "6",
+    "course": "Native Oaks",
+    "notes": null
   }
 ];
 
@@ -21293,6 +21656,12 @@ const PLAYERS = [
     "name": "Tyler Nichols",
     "status": "Guest",
     "team": "None"
+  },
+  {
+    "id": 47,
+    "name": "William Colbert",
+    "status": "Guest",
+    "team": "None"
   }
 ];
 
@@ -21388,7 +21757,7 @@ const TGL_PARTICIPANTS = {
     "Kevin Vargas",
     "Taylor Yates",
     "Tai Ho",
-    "Mikel Hodges",
+    "John Nothdurft",
     "Colin Harrison",
     "Kevin Taylor",
     "Art Hernandez",
@@ -21423,6 +21792,15 @@ const TGL_PARTICIPANTS = {
     "Will Vuong",
     "Juan Ramirez",
     "Paul Hsieh"
+  ],
+  "2026_06": [
+    "John Nothdurft",
+    "Tai Ho",
+    "Jorge Rayo",
+    "Kevin Vargas",
+    "Paul Toledo",
+    "Carlos Bouloy",
+    "Nick Harris"
   ]
 };
 
@@ -21440,12 +21818,12 @@ const TGL_POINTS = {
   "2026_03": {
     "Carlos Bouloy": 13.5,
     "Chris Chang": 11.0,
-    "Spencer Higgins": 8.5,
+    "Spencer Higgins": 10.0,
     "Andy Pendleton": 3.0,
     "David Wu": 2.0,
     "Mikel Hodges": 11.5,
     "Tam Tran": 10.0,
-    "Danny Lopez": 5.0
+    "Danny Lopez": 5.5
   },
   "2026_04": {
     "Paul Toledo": 18.0,
@@ -21453,19 +21831,28 @@ const TGL_POINTS = {
     "Tom Shea": 11.0,
     "JP Hill": 9.0,
     "Colin Chang": 7.5,
-    "Kevin Taylor": 16.5,
-    "Mike Paguyo": 7.5,
-    "Danny Marin": 2.0
+    "Kevin Taylor": 17.5,
+    "Mike Paguyo": 8.5,
+    "Danny Marin": 3.0
   },
   "2026_05": {
     "Kevin Vargas": 8.0,
     "Mikel Hodges": 6.5,
     "Taylor Yates": 5.0,
     "Tai Ho": 1.0,
-    "Art Hernandez": 8.0,
-    "Will Vuong": 8.0,
-    "Juan Ramirez": 6.0,
-    "Paul Hsieh": 4.0
+    "Art Hernandez": 9.0,
+    "Will Vuong": 9.0,
+    "Juan Ramirez": 7.0,
+    "Paul Hsieh": 5.0
+  },
+  "2026_06": {
+    "John Nothdurft": 10.0,
+    "Tai Ho": 8.5,
+    "Jorge Rayo": 8.5,
+    "Kevin Vargas": 6.5,
+    "Paul Toledo": 4.0,
+    "Carlos Bouloy": 3.0,
+    "Nick Harris": 8.0
   }
 };
 
@@ -22219,9 +22606,9 @@ const RESULTS = [
     "pid": 29,
     "player": "Paul Toledo",
     "flight": "A",
-    "hcp": 20,
-    "gross": 94,
-    "net": 74,
+    "hcp": 17,
+    "gross": 90,
+    "net": 73,
     "f9": 47,
     "b9": 47,
     "putts": null
@@ -22244,8 +22631,8 @@ const RESULTS = [
     "player": "Spencer Higgins",
     "flight": "A",
     "hcp": 10,
-    "gross": 90,
-    "net": 80,
+    "gross": 86,
+    "net": 76,
     "f9": 43,
     "b9": 47,
     "putts": null
@@ -22292,8 +22679,8 @@ const RESULTS = [
     "player": "John Nothdurft",
     "flight": "A",
     "hcp": 15,
-    "gross": 98,
-    "net": 83,
+    "gross": 96,
+    "net": 81,
     "f9": 49,
     "b9": 49,
     "putts": null
@@ -22315,9 +22702,9 @@ const RESULTS = [
     "pid": 17,
     "player": "JP Hill",
     "flight": "A",
-    "hcp": 13,
-    "gross": 96,
-    "net": 83,
+    "hcp": 15,
+    "gross": 103,
+    "net": 88,
     "f9": 51,
     "b9": 45,
     "putts": null
@@ -22375,9 +22762,9 @@ const RESULTS = [
     "pid": 1,
     "player": "Art Hernandez",
     "flight": "B",
-    "hcp": 22,
-    "gross": 90,
-    "net": 68,
+    "hcp": 21,
+    "gross": 92,
+    "net": 71,
     "f9": 44,
     "b9": 46,
     "putts": null
@@ -22423,8 +22810,8 @@ const RESULTS = [
     "pid": 33,
     "player": "Steve Chiang",
     "flight": "B",
-    "hcp": 21,
-    "gross": 99,
+    "hcp": 22,
+    "gross": 100,
     "net": 78,
     "f9": 51,
     "b9": 48,
@@ -22484,8 +22871,8 @@ const RESULTS = [
     "player": "Colin Harrison",
     "flight": "B",
     "hcp": 19,
-    "gross": 100,
-    "net": 81,
+    "gross": 101,
+    "net": 82,
     "f9": 52,
     "b9": 48,
     "putts": null
@@ -22507,9 +22894,9 @@ const RESULTS = [
     "pid": 22,
     "player": "Mark Horgan",
     "flight": "B",
-    "hcp": 29,
+    "hcp": 24,
     "gross": 115,
-    "net": 86,
+    "net": 91,
     "f9": 58,
     "b9": 57,
     "putts": null
@@ -22947,6 +23334,18 @@ const RESULTS = [
     "putts": 39
   },
   {
+    "tid": "2026_04",
+    "pid": 21,
+    "player": "Marcel Mendoza",
+    "flight": "B",
+    "hcp": null,
+    "gross": null,
+    "net": null,
+    "f9": null,
+    "b9": null,
+    "putts": null
+  },
+  {
     "tid": "2026_05",
     "pid": 41,
     "player": "Mat Vigil",
@@ -23257,6 +23656,258 @@ const RESULTS = [
     "f9": 67,
     "b9": 60,
     "putts": 39
+  },
+  {
+    "tid": "2026_05",
+    "pid": 22,
+    "player": "Mark Horgan",
+    "flight": "B",
+    "hcp": null,
+    "gross": null,
+    "net": null,
+    "f9": null,
+    "b9": null,
+    "putts": null
+  },
+  {
+    "tid": "2026_06",
+    "pid": 15,
+    "player": "John Nothdurft",
+    "flight": "A",
+    "hcp": 10,
+    "gross": 81,
+    "net": 71,
+    "f9": 41,
+    "b9": 40,
+    "putts": 32
+  },
+  {
+    "tid": "2026_06",
+    "pid": 34,
+    "player": "Tai Ho",
+    "flight": "A",
+    "hcp": 12,
+    "gross": 88,
+    "net": 76,
+    "f9": 42,
+    "b9": 46,
+    "putts": 33
+  },
+  {
+    "tid": "2026_06",
+    "pid": 16,
+    "player": "Jorge Rayo",
+    "flight": "A",
+    "hcp": 16,
+    "gross": 92,
+    "net": 76,
+    "f9": 46,
+    "b9": 46,
+    "putts": 33
+  },
+  {
+    "tid": "2026_06",
+    "pid": 20,
+    "player": "Kevin Vargas",
+    "flight": "A",
+    "hcp": 6,
+    "gross": 84,
+    "net": 78,
+    "f9": 39,
+    "b9": 45,
+    "putts": 31
+  },
+  {
+    "tid": "2026_06",
+    "pid": 32,
+    "player": "Spencer Higgins",
+    "flight": "A",
+    "hcp": 10,
+    "gross": 88,
+    "net": 78,
+    "f9": 45,
+    "b9": 43,
+    "putts": 31
+  },
+  {
+    "tid": "2026_06",
+    "pid": 41,
+    "player": "Mat Vigil",
+    "flight": "A",
+    "hcp": 10,
+    "gross": 90,
+    "net": 80,
+    "f9": 50,
+    "b9": 40,
+    "putts": 29
+  },
+  {
+    "tid": "2026_06",
+    "pid": 29,
+    "player": "Paul Toledo",
+    "flight": "A",
+    "hcp": 10,
+    "gross": 92,
+    "net": 82,
+    "f9": 42,
+    "b9": 50,
+    "putts": 31
+  },
+  {
+    "tid": "2026_06",
+    "pid": 6,
+    "player": "Carlos Bouloy",
+    "flight": "A",
+    "hcp": 14,
+    "gross": 99,
+    "net": 85,
+    "f9": 49,
+    "b9": 50,
+    "putts": 33
+  },
+  {
+    "tid": "2026_06",
+    "pid": 47,
+    "player": "William Colbert",
+    "flight": "A",
+    "hcp": 8,
+    "gross": 94,
+    "net": 86,
+    "f9": 46,
+    "b9": 48,
+    "putts": 35
+  },
+  {
+    "tid": "2026_06",
+    "pid": 17,
+    "player": "JP Hill",
+    "flight": "A",
+    "hcp": 14,
+    "gross": 117,
+    "net": 103,
+    "f9": 63,
+    "b9": 54,
+    "putts": 34
+  },
+  {
+    "tid": "2026_06",
+    "pid": 18,
+    "player": "Juan Ramirez",
+    "flight": "B",
+    "hcp": 35,
+    "gross": 105,
+    "net": 70,
+    "f9": 51,
+    "b9": 54,
+    "putts": 36
+  },
+  {
+    "tid": "2026_06",
+    "pid": 10,
+    "player": "Danny Lopez",
+    "flight": "B",
+    "hcp": 17,
+    "gross": 92,
+    "net": 75,
+    "f9": 44,
+    "b9": 48,
+    "putts": 34
+  },
+  {
+    "tid": "2026_06",
+    "pid": 27,
+    "player": "Nick Harris",
+    "flight": "B",
+    "hcp": 16,
+    "gross": 94,
+    "net": 78,
+    "f9": 46,
+    "b9": 48,
+    "putts": 33
+  },
+  {
+    "tid": "2026_06",
+    "pid": 2,
+    "player": "Adrianna Moore",
+    "flight": "B",
+    "hcp": 36,
+    "gross": 116,
+    "net": 80,
+    "f9": 53,
+    "b9": 63,
+    "putts": 47
+  },
+  {
+    "tid": "2026_06",
+    "pid": 24,
+    "player": "Mike Paguyo",
+    "flight": "B",
+    "hcp": 20,
+    "gross": 102,
+    "net": 82,
+    "f9": 51,
+    "b9": 51,
+    "putts": 33
+  },
+  {
+    "tid": "2026_06",
+    "pid": 44,
+    "player": "Med Baheta",
+    "flight": "B",
+    "hcp": 15,
+    "gross": 98,
+    "net": 83,
+    "f9": 49,
+    "b9": 49,
+    "putts": 35
+  },
+  {
+    "tid": "2026_06",
+    "pid": 21,
+    "player": "Marcel Mendoza",
+    "flight": "B",
+    "hcp": 18,
+    "gross": 101,
+    "net": 83,
+    "f9": 50,
+    "b9": 51,
+    "putts": 29
+  },
+  {
+    "tid": "2026_06",
+    "pid": 43,
+    "player": "Jason Payton",
+    "flight": "B",
+    "hcp": 24,
+    "gross": 107,
+    "net": 83,
+    "f9": 54,
+    "b9": 53,
+    "putts": 37
+  },
+  {
+    "tid": "2026_06",
+    "pid": 35,
+    "player": "Tam Tran",
+    "flight": "B",
+    "hcp": 14,
+    "gross": 100,
+    "net": 86,
+    "f9": 51,
+    "b9": 49,
+    "putts": 37
+  },
+  {
+    "tid": "2026_06",
+    "pid": 25,
+    "player": "Mike Pena",
+    "flight": "B",
+    "hcp": 35,
+    "gross": 132,
+    "net": 97,
+    "f9": 69,
+    "b9": 63,
+    "putts": 40
   }
 ];
 
@@ -24228,6 +24879,206 @@ const ACHIEVEMENTS = [
     "cat": "Low Putts",
     "pl": "Winner",
     "amt": 27.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 15,
+    "player": "John Nothdurft",
+    "cat": "Flight A - Overall",
+    "pl": "1",
+    "amt": 50.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 34,
+    "player": "Tai Ho",
+    "cat": "Flight A - Overall",
+    "pl": "2",
+    "amt": 25.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 16,
+    "player": "Jorge Rayo",
+    "cat": "Flight A - Overall",
+    "pl": "2",
+    "amt": 25.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 18,
+    "player": "Juan Ramirez",
+    "cat": "Flight B - Overall",
+    "pl": "1",
+    "amt": 50.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 10,
+    "player": "Danny Lopez",
+    "cat": "Flight B - Overall",
+    "pl": "2",
+    "amt": 25.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 27,
+    "player": "Nick Harris",
+    "cat": "Flight B - Overall",
+    "pl": "3",
+    "amt": 25.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 20,
+    "player": "Kevin Vargas",
+    "cat": "Flight A - Front 9",
+    "pl": "1",
+    "amt": 10.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 15,
+    "player": "John Nothdurft",
+    "cat": "Flight A - Front 9",
+    "pl": "1",
+    "amt": 10.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 34,
+    "player": "Tai Ho",
+    "cat": "Flight A - Front 9",
+    "pl": "1",
+    "amt": 10.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 18,
+    "player": "Juan Ramirez",
+    "cat": "Flight B - Front 9",
+    "pl": "1",
+    "amt": 20.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 10,
+    "player": "Danny Lopez",
+    "cat": "Flight B - Front 9",
+    "pl": "2",
+    "amt": 5.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 2,
+    "player": "Adrianna Moore",
+    "cat": "Flight B - Front 9",
+    "pl": "2",
+    "amt": 5.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 15,
+    "player": "John Nothdurft",
+    "cat": "Flight A - Back 9",
+    "pl": "1",
+    "amt": 15.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 41,
+    "player": "Mat Vigil",
+    "cat": "Flight A - Back 9",
+    "pl": "1",
+    "amt": 15.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 18,
+    "player": "Juan Ramirez",
+    "cat": "Flight B - Back 9",
+    "pl": "1",
+    "amt": 20.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 27,
+    "player": "Nick Harris",
+    "cat": "Flight B - Back 9",
+    "pl": "2",
+    "amt": 5.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 10,
+    "player": "Danny Lopez",
+    "cat": "Flight B - Back 9",
+    "pl": "2",
+    "amt": 5.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 41,
+    "player": "Mat Vigil",
+    "cat": "Low Putts",
+    "pl": "Winner",
+    "amt": 20.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 21,
+    "player": "Marcel Mendoza",
+    "cat": "Low Putts",
+    "pl": "Winner",
+    "amt": 20.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 47,
+    "player": "William Colbert",
+    "cat": "Flight A - Long Drive",
+    "pl": "Winner",
+    "amt": 10.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 35,
+    "player": "Tam Tran",
+    "cat": "Flight B - Long Drive",
+    "pl": "Winner",
+    "amt": 10.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 44,
+    "player": "Med Baheta",
+    "cat": "Closest to the Pin",
+    "pl": "Winner",
+    "amt": 25.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 44,
+    "player": "Med Baheta",
+    "cat": "Closest to the Pin",
+    "pl": "Winner",
+    "amt": 25.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 41,
+    "player": "Mat Vigil",
+    "cat": "Closest to the Pin",
+    "pl": "Winner",
+    "amt": 25.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 20,
+    "player": "Kevin Vargas",
+    "cat": "Closest to the Pin",
+    "pl": "Winner",
+    "amt": 25.0
   }
 ];
 
@@ -24679,6 +25530,78 @@ const SKINS = [
     "cat": "Flight B - Skins",
     "total": 1,
     "amt": 13.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 16,
+    "player": "Jorge Rayo",
+    "cat": "Flight A - Skins",
+    "total": 8,
+    "amt": 80.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 32,
+    "player": "Spencer Higgins",
+    "cat": "Flight A - Skins",
+    "total": 5,
+    "amt": 50.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 34,
+    "player": "Tai Ho",
+    "cat": "Flight A - Skins",
+    "total": 4,
+    "amt": 40.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 15,
+    "player": "John Nothdurft",
+    "cat": "Flight A - Skins",
+    "total": 1,
+    "amt": 10.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 18,
+    "player": "Juan Ramirez",
+    "cat": "Flight B - Skins",
+    "total": 8,
+    "amt": 80.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 27,
+    "player": "Nick Harris",
+    "cat": "Flight B - Skins",
+    "total": 3,
+    "amt": 30.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 24,
+    "player": "Mike Paguyo",
+    "cat": "Flight B - Skins",
+    "total": 3,
+    "amt": 30.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 21,
+    "player": "Marcel Mendoza",
+    "cat": "Flight B - Skins",
+    "total": 2,
+    "amt": 20.0
+  },
+  {
+    "tid": "2026_06",
+    "pid": 25,
+    "player": "Mike Pena",
+    "cat": "Flight B - Skins",
+    "total": 2,
+    "amt": 20.0
   }
 ];
 
